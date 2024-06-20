@@ -106,7 +106,7 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Summary 
 </details>
 
-<details>
+<details open>
 <summary>Chapter 4 - Working with Lists</summary>
 
   - [x] Looping Through an Entire List 
