@@ -1,11 +1,16 @@
-# Python Crash Course :snake:
+<p>
+<img src="https://ehmatthes.github.io/pcc_3e/images/pcc_snake_logo.png" height="400rm" align="right">
 
-## Table of Contents 
+# Python Crash Course 
+
+## Table of Contents
+
 - Description
-- Progress 
+- Progress
 - Authors
+</p>
 
-## Description :book:
+## Description
 Here I will keep track of all the exercises and contents learned while reading the book "*Python Crash Course: A Hands-On, Project-Based Introduction to Programming*" by **Eric Matthes**.
 
 ## Progress
