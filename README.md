@@ -136,9 +136,9 @@ Here I will keep track of all the exercises and contents learned while reading t
     - [x] Exercise 4-5: Summing a Million 
     - [x] Exercise 4-6: Odd Numbers 
     - [x] Exercise 4-7: Threes 
-    - [ ] Exercise 4-8: Cubes 👈
-    - [ ] Exercise 4-9: Cube Comprehension 
-  - [ ] <b>Working with Part of a List</b> 
+    - [x] Exercise 4-8: Cubes 
+    - [x] Exercise 4-9: Cube Comprehension 
+  - [ ] <b>Working with Part of a List</b> 👈
     - [ ] Slicing a List
     - [ ] Looping Through a Slice 
     - [ ] Copying a List 

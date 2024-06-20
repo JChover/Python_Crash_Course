@@ -1,7 +1,7 @@
 # Creating a LIST of the 10 first square numbers using for loops and range()
 squares = []  # Create an empty LIST called squares
 
-for value in range(1,11):  # Here we create a loop from 1 to 10
+for value in range(1, 11):  # Here we create a loop from 1 to 10
     square = value ** 2  # Here we calculate the square of each number from 1 to 10 using ** 2
     squares.append(square)  # Here we APPEND each square to out empty LIST
     # We can reduce the code by using 'squares.append(value**2)
