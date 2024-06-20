@@ -18,7 +18,7 @@ Here I will keep track of all the exercises and contents learned while reading t
 ### Part I: Basics
 
 <details>
-<summary>Chapter 1 - Getting Started</summary>
+<summary>Chapter 1 - Getting Started ✔️</summary>
   
   - [x] Setting Up Your Programming Environment
     - [x] Python Versions
@@ -42,7 +42,7 @@ Here I will keep track of all the exercises and contents learned while reading t
 </details>
 
 <details>
-<summary>Chapter 2 - Variables and Simple Data Types</summary>
+<summary>Chapter 2 - Variables and Simple Data Types ✅</summary>
 
   - [x] What Really Happens When You Run hello_world.py 
   - [x] Variables 
@@ -81,7 +81,7 @@ Here I will keep track of all the exercises and contents learned while reading t
 </details>
 
 <details>
-<summary>Chapter 3 - Introducing Lists</summary>
+<summary>Chapter 3 - Introducing Lists ☑️</summary>
 
   - [x] What Is a List? 
     - [x] Accessing Elements in a List
@@ -135,7 +135,7 @@ Here I will keep track of all the exercises and contents learned while reading t
     - [x] Exercise 4-4: One Million 
     - [x] Exercise 4-5: Summing a Million 
     - [x] Exercise 4-6: Odd Numbers 
-    - [x] Exercise 4-7: Threes 
+    - [x] Exercise 4-7: Threes 👈
     - [ ] Exercise 4-8: Cubes
     - [ ] Exercise 4-9: Cube Comprehension 
   - [ ] Working with Part of a List 
