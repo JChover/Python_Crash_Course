@@ -6,11 +6,14 @@
 
 - Description
 - Progress
-  - PART 1: BASICS
-  - PART 2: PROJECTS
+  - PART I: BASICS
+  - PART II: PROJECTS
+    - Project 1: Alien Invasion
+    - Project 2: Data Visualization
+    - Project 3: Web Applications
 - Resources
 - Learned
-- Conclussions 
+- Conclusions 
 </p>
 
 ## Description
