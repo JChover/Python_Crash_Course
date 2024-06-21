@@ -275,6 +275,104 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [ ] <b>Summary</b>
 </details>
 
+<details>
+<summary><b>Chapter 8 - Functions</b></summary>
+
+- [ ] <b>Defining a Function</b>
+  - [ ] Passing Information to a Function
+  - [ ] Arguments and Parameters
+  - [ ] Exercise 8-1: Message 
+  - [ ] Exercise 8-2: Favorite Book
+- [ ] <b>Passing Arguments</b> 
+  - [ ] Positional Arguments 
+  - [ ] Keyword Arguments 
+  - [ ] Default Values 
+  - [ ] Equivalent Function Calls
+  - [ ] Avoiding Argument Errors
+  - [ ] Exercise 8-3: T-Shirt 
+  - [ ] Exercise 8-4: Large Shirts 
+  - [ ] Exercise 8-5: Cities 
+- [ ] <b>Return Values</b>
+  - [ ] Returning a Simple Value
+  - [ ] Making an Argument Optional 
+  - [ ] Returning a Dictionary
+  - [ ] Using a Function with a while Loop
+  - [ ] Exercise 8-6: City Names 
+  - [ ] Exercise 8-7: Album 
+  - [ ] Exercise 8-8: User Albums 
+- [ ] <b>Passing a List</b> 
+  - [ ] Modifying a List in a Function 
+  - [ ] Preventing a Function from Modifying a List 
+  - [ ] Exercise 8-9: Messages 
+  - [ ] Exercise 8-10: Sending Messages 
+  - [ ] Exercise 8-11: Archived Messages 
+- [ ] <b>Passing an Arbitrary Number of Arguments</b> 
+  - [ ] Mixing Positional and Arbitrary Arguments 
+  - [ ] Using Arbitrary Keyword Arguments 
+  - [ ] Exercise 8-12: Sandwiches 
+  - [ ] Exercise 8-13: User Profile 
+  - [ ] Exercise 8-14: Cars 
+- [ ] <b>Storing Your Functions in Modules</b> 
+  - [ ] Importing an Entire Module 
+  - [ ] Importing Specific Functions 
+  - [ ] Using as to Give a Function an Alias 
+  - [ ] Using as to Give a Module an Alias 
+  - [ ] Importing All Functions in a Module 
+- [ ] <b>Styling Functions</b>
+  - [ ] Exercise 8-15: Printing Models 
+  - [ ] Exercise 8-16: Imports 
+  - [ ] Exercise 8-17: Styling Functions
+- [ ] <b>Summary</b>
+</details>
+
+<details>
+<summary><b>Chapter 9 - Classes</b></summary>
+
+- [ ] <b>Creating and Using a Class</b>
+  - [ ] Creating the Dog Class
+  - [ ] Making an Instance from a Class
+  - [ ] Exercise 9-1: Restaurant
+  - [ ] Exercise 9-2: Three Restaurants
+  - [ ] Exercise 9-3: Users
+- [ ] <b>Working with Classes and Instances</b>
+  - [ ] The Car Class
+  - [ ] Setting a Default Value for an Attribute
+  - [ ] Modifying Attribute Values
+  - [ ] Exercise 9-4: Number Served
+  - [ ] Exercise 9-5: Login Attempts
+- [ ] <b>Inheritance</b>
+  - [ ] The __init__() Method for a Child Class
+  - [ ] Defining Attributes and Methods for the Child Class
+  - [ ] Overriding Methods from the Parent Class
+  - [ ] Instances as Attributes
+  - [ ] Modeling Real-World Objects
+  - [ ] Exercise 9-6: Ice Cream Stand
+  - [ ] Exercise 9-7: Admin
+  - [ ] Exercise 9-8: Privileges
+  - [ ] Exercise 9-9: Battery Upgrade
+- [ ] <b>Importing Classes</b>
+  - [ ] Importing a Single Class
+  - [ ] Storing Multiple Classes in a Module
+  - [ ] Importing Multiple Classes from a Module
+  - [ ] Importing an Entire Module
+  - [ ] Importing All Classes from a Module
+  - [ ] Importing a Module into a Module
+  - [ ] Using Aliases
+  - [ ] Finding Your Own Workflow
+  - [ ] Exercise 9-10: Imported Restaurant
+  - [ ] Exercise 9-11: Imported Admin
+  - [ ] Exercise 9-12: Multiple Modules
+- [ ] <b>The Python Standard Library</b>
+  - [ ] Exercise 9-13: Dice
+  - [ ] Exercise 9-14: Lottery
+  - [ ] Exercise 9-15: Lottery Analysis
+  - [ ] Exercise 9-16: Python Module of the Week
+- [ ] <b>Styling Classes</b>
+- [ ] <b>Summary</b>
+</details>
+
+
+
 ## Resources
 Here I will leave all the resources I use during this project.
 
