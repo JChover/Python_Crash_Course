@@ -1,12 +1,15 @@
+# Python Crash Course 
 <p>
 <img src="https://ehmatthes.github.io/pcc_3e/images/pcc_snake_logo.png" height="400rm" align="right">
-
-# Python Crash Course 
 
 ## Table of Contents
 
 - Description
 - Progress
+  - PART 1: BASICS
+  - PART 2: PROJECTS
+- Learned
+- Conclussions 
 - Authors
 </p>
 
@@ -272,6 +275,12 @@ Here I will keep track of all the exercises and contents learned while reading t
 
 ## Authors
 List of authors and contributors.
+
+## Learned
+What I have learned reading this book.
+
+## Conclusions
+What are my conclusion after reading this book.
 
 ```mermaid
 graph TD;
