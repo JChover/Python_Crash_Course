@@ -8,6 +8,7 @@
 - Progress
   - PART 1: BASICS
   - PART 2: PROJECTS
+- Resources
 - Learned
 - Conclussions 
 </p>
@@ -270,6 +271,9 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [ ] Exercise 7-10: Dream Vacation
 - [ ] <b>Summary</b>
 </details>
+
+## Resources
+Here I will leave all the resources I use during this project.
 
 ## Learned
 What I have learned reading this book.
