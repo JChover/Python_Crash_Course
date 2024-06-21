@@ -18,6 +18,8 @@
 
 ## Description
 Here I will keep track of all the exercises and contents learned while reading the book "*Python Crash Course: A Hands-On, Project-Based Introduction to Programming*" by **Eric Matthes**.
+> [!IMPORTANT]
+> No content of the book will be available here, this repository is just a place where I will leave my solutions of the exercises and some of the concepts learned along the way.
 
 ## Progress
 
