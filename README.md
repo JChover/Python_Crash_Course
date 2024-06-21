@@ -10,7 +10,6 @@
   - PART 2: PROJECTS
 - Learned
 - Conclussions 
-- Authors
 </p>
 
 ## Description
@@ -271,10 +270,6 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [ ] Exercise 7-10: Dream Vacation
 - [ ] <b>Summary</b>
 </details>
-
-
-## Authors
-List of authors and contributors.
 
 ## Learned
 What I have learned reading this book.
