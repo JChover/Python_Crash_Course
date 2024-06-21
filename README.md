@@ -341,7 +341,7 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [ ] Exercise 9-4: Number Served
   - [ ] Exercise 9-5: Login Attempts
 - [ ] <b>Inheritance</b>
-  - [ ] The __init__() Method for a Child Class
+  - [ ] The `__init__()` Method for a Child Class
   - [ ] Defining Attributes and Methods for the Child Class
   - [ ] Overriding Methods from the Parent Class
   - [ ] Instances as Attributes
