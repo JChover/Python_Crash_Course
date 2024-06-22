@@ -146,14 +146,14 @@ Here I will keep track of all the exercises and contents learned while reading t
     - [x] Exercise 4-7: Threes 
     - [x] Exercise 4-8: Cubes 
     - [x] Exercise 4-9: Cube Comprehension 
-  - [ ] <b>Working with Part of a List</b> 👈
-    - [ ] Slicing a List
-    - [ ] Looping Through a Slice 
-    - [ ] Copying a List 
-    - [ ] Exercise 4-10: Slices 
-    - [ ] Exercise 4-11: My Pizzas, Your Pizzas 
-    - [ ] Exercise 4-12: More Loops 
-  - [ ] <b>Tuples</b> 
+  - [x] <b>Working with Part of a List</b>
+    - [x] Slicing a List
+    - [x] Looping Through a Slice 
+    - [x] Copying a List 
+    - [x] Exercise 4-10: Slices 
+    - [x] Exercise 4-11: My Pizzas, Your Pizzas 
+    - [x] Exercise 4-12: More Loops 
+  - [ ] <b>Tuples</b> 👈 
     - [ ] Defining a Tuple 
     - [ ] Looping Through All Values in a Tuple 
     - [ ] Writing over a Tuple 
