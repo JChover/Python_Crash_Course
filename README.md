@@ -119,7 +119,7 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] <b>Summary</b> 
 </details>
 
-<details open>
+<details>
 <summary><b>Chapter 4 - Working with Lists</b></summary>
   
   - [x] <b>Looping Through an Entire List</b> 
@@ -153,26 +153,26 @@ Here I will keep track of all the exercises and contents learned while reading t
     - [x] Exercise 4-10: Slices 
     - [x] Exercise 4-11: My Pizzas, Your Pizzas 
     - [x] Exercise 4-12: More Loops 
-  - [ ] <b>Tuples</b> 👈 
-    - [ ] Defining a Tuple 
-    - [ ] Looping Through All Values in a Tuple 
-    - [ ] Writing over a Tuple 
-    - [ ] Exercise 4-13: Buffet 
-  - [ ] <b>Styling Your Code</b>
-    - [ ] The Style Guide 
-    - [ ] Indentation 
-    - [ ] Line Length 
-    - [ ] Blank Lines 
-    - [ ] Other Style Guidelines 
-    - [ ] Exercise 4-14: PEP 8 
-    - [ ] Exercise 4-15: Code Review 
-  - [ ] <b>Summary</b> 
+  - [x] <b>Tuples</b> 
+    - [x] Defining a Tuple 
+    - [x] Looping Through All Values in a Tuple 
+    - [x] Writing over a Tuple 
+    - [x] Exercise 4-13: Buffet 
+  - [x] <b>Styling Your Code</b>
+    - [x] The Style Guide 
+    - [x] Indentation 
+    - [x] Line Length 
+    - [x] Blank Lines 
+    - [x] Other Style Guidelines 
+    - [x] Exercise 4-14: PEP 8 
+    - [x] Exercise 4-15: Code Review 
+  - [x] <b>Summary</b> 
 </details>
 
-<details>
+<details open>
 <summary><b>Chapter 5 - If Statements</b></summary>
 
-- [ ] <b>A Simple Example</b>
+- [ ] <b>A Simple Example</b> 👈
 - [ ] <b>Conditional Tests</b>
   - [ ] Checking for Equality
   - [ ] Ignoring Case When Checking for Equality
@@ -377,6 +377,8 @@ Here I will keep track of all the exercises and contents learned while reading t
 
 ## Resources
 Here I will leave all the resources I use during this project.
+- The Zen of Python
+- PEP 8
 
 ## Learned
 What I have learned reading this book.
