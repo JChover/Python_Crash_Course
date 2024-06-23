@@ -120,7 +120,7 @@ Here I will keep track of all the exercises and contents learned while reading t
 </details>
 
 <details>
-<summary><b>Chapter 4 - Working with Lists</b></summary>
+<summary><b>Chapter 4 - Working with Lists</b> ✔️</summary>
   
   - [x] <b>Looping Through an Entire List</b> 
     - [x] A Closer Look at Looping 
