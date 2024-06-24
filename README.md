@@ -172,19 +172,19 @@ Here I will keep track of all the exercises and contents learned while reading t
 <details open>
 <summary><b>Chapter 5 - If Statements</b></summary>
 
-- [ ] <b>A Simple Example</b> 👈
-- [ ] <b>Conditional Tests</b>
-  - [ ] Checking for Equality
-  - [ ] Ignoring Case When Checking for Equality
-  - [ ] Checking for Inequality 
-  - [ ] Numerical Comparisons 
-  - [ ] Checking Multiple Conditions 
-  - [ ] Checking Whether a Value Is in a List 
-  - [ ] Checking Whether a Value Is Not in a List 
-  - [ ] Boolean Expressions 
-  - [ ] Exercise 5-1: Conditional Tests 
+- [x] <b>A Simple Example</b>
+- [x] <b>Conditional Tests</b>
+  - [x] Checking for Equality
+  - [x] Ignoring Case When Checking for Equality
+  - [x] Checking for Inequality 
+  - [x] Numerical Comparisons 
+  - [x] Checking Multiple Conditions 
+  - [x] Checking Whether a Value Is in a List 
+  - [x] Checking Whether a Value Is Not in a List 
+  - [x] Boolean Expressions 
+  - [ ] Exercise 5-1: Conditional Tests 👈
   - [ ] Exercise 5-2: More Conditional Tests 
-- [ ] <b>if Statements</b> 
+- [ ] <b>if Statements</b>
   - [ ] Simple if Statements 
   - [ ] if-else Statements
   - [ ] The if-elif-else Chain 
@@ -382,6 +382,10 @@ Here I will leave all the resources I use during this project.
 
 ## Learned
 What I have learned reading this book.
+- Better understanding of GitHub.
+- How to set up and use PyCharm.
+- How to set up and use Jupyter Notebooks.
+- All the syntax and modifiers of the .md files.
 
 ## Conclusions
 What are my conclusion after reading this book.
