@@ -6,8 +6,8 @@
 
 - Description
 - Progress
-  - PART I: BASICS
-  - PART II: PROJECTS
+  - Part I: Basics
+  - Part II: Projects
     - Project 1: Alien Invasion
     - Project 2: Data Visualization
     - Project 3: Web Applications
