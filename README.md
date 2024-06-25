@@ -484,8 +484,13 @@ Here I will keep track of all the exercises and contents learned while reading t
 
 ## Resources
 Here I will leave all the resources I use during this project.
-- The Zen of Python
-- PEP 8
+- [The Zen of Python](https://peps.python.org/pep-0020/)
+- [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
+- [List of Python Keywords](https://docs.python.org/3/reference/lexical_analysis.html#keywords)
+- [List of Python Escape Sequences](https://docs.python.org/3/reference/lexical_analysis.html#escape-sequences)
+- [List of Python Operators and Delimiters](https://docs.python.org/3/reference/lexical_analysis.html#operators)
+- [List of Python Built-in Functions](https://docs.python.org/3/library/functions.html)
+- [List of Python Built-in Types](https://docs.python.org/3/library/stdtypes.html)
 
 ## Learned
 What I have learned reading this book.
