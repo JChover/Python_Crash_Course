@@ -373,7 +373,114 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [ ] <b>Summary</b>
 </details>
 
+<details>
+<summary><b>Chapter 10 - Files and Exceptions</b></summary>
 
+- [ ] <b>Reading from a File</b>
+  - [ ] Reading an Entire File
+  - [ ] File Paths
+  - [ ] Reading Line by Line
+  - [ ] Making a List of Lines from a File
+  - [ ] Working with a File’s Contents
+  - [ ] Large Files: One Million Digits
+  - [ ] Is Your Birthday Contained in Pi?
+  - [ ] Exercise 10-1: Learning Python
+  - [ ] Exercise 10-2: Learning C
+- [ ] <b>Writing to a File</b>
+  - [ ] Writing to an Empty File
+  - [ ] Writing Multiple Lines
+  - [ ] Appending to a File
+  - [ ] Exercise 10-3: Guest
+  - [ ] Exercise 10-4: Guest Book
+  - [ ] Exercise 10-5: Programming Poll
+- [ ] <b>Exceptions</b>
+  - [ ] Handling the ZeroDivisionError Exception
+  - [ ] Using try-except Blocks
+  - [ ] Using Exceptions to Prevent Crashes
+  - [ ] The else Block
+  - [ ] Handling the FileNotFoundError Exception
+  - [ ] Analyzing Text
+  - [ ] Working with Multiple Files
+  - [ ] Failing Silently
+  - [ ] Deciding Which Errors to Report
+  - [ ] Exercise 10-6: Addition
+  - [ ] Exercise 10-7: Addition Calculator
+  - [ ] Exercise 10-8: Cats and Dogs
+  - [ ] Exercise 10-9: Silent Cats and Dogs
+  - [ ] Exercise 10-10: Common Words
+- [ ] <b>Storing Data</b>
+  - [ ] Using json.dump() and json.load()
+  - [ ] Saving and Reading User-Generated Data
+  - [ ] Refactoring
+  - [ ] Exercise 10-11: Favorite Number
+  - [ ] Exercise 10-12: Favorite Number Remembered
+  - [ ] Exercise 10-13: Verify User
+- [ ] <b>Summary</b>
+</details>
+
+<details>
+<summary><b>Chapter 11 - Testing Your Code</b></summary>
+
+- [ ] <b>Testing a Function</b>
+  - [ ] Unit Tests and Test Cases
+  - [ ] A Passing Test
+  - [ ] A Failing Test
+  - [ ] Responding to a Failed Test
+  - [ ] Adding New Tests
+  - [ ] Exercise 11-1: City, Country
+  - [ ] Exercise 11-2: Population
+- [ ] <b>Testing a Class</b>
+  - [ ] A Variety of Assert Methods
+  - [ ] A Class to Test
+  - [ ] Testing the AnonymousSurvey Class
+  - [ ] The setUp() Method
+  - [ ] Exercise 11-3: Employee
+- [ ] <b>Summary</b>
+</details>
+
+### Part II: Projects
+
+#### Project 1: Alien Invasion
+
+<details>
+<summary><b>Chapter 12 - A Ship that Fires Bullets</b></summary>
+</details>
+
+<details>
+<summary><b>Chapter 13 - ALIENS!</b></summary>
+</details>
+
+<details>
+<summary><b>Chapter 14 - Scoring</b></summary>
+</details>
+
+#### Project 2: Data Visualization
+
+<details>
+<summary><b>Chapter 15 - Generating Data</b></summary>
+</details>
+
+<details>
+<summary><b>Chapter 16 - Downloading Data</b></summary>
+</details>
+
+<details>
+<summary><b>Chapter 17 - Working with APIs</b></summary>
+</details>
+
+#### Project 3: Web Applications
+
+<details>
+<summary><b>Chapter 18 - Getting Started with DJANGO</b></summary>
+</details>
+
+<details>
+<summary><b>Chapter 19 - User Accounts</b></summary>
+</details>
+
+<details>
+<summary><b>Chapter 20 - Styling and Deploying an APP</b></summary>
+</details>
 
 ## Resources
 Here I will leave all the resources I use during this project.
