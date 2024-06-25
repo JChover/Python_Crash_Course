@@ -182,16 +182,16 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Checking Whether a Value Is in a List 
   - [x] Checking Whether a Value Is Not in a List 
   - [x] Boolean Expressions 
-  - [ ] Exercise 5-1: Conditional Tests 👈
-  - [ ] Exercise 5-2: More Conditional Tests 
-- [ ] <b>if Statements</b>
-  - [ ] Simple if Statements 
-  - [ ] if-else Statements
-  - [ ] The if-elif-else Chain 
-  - [ ] Using Multiple elif Blocks 
-  - [ ] Omitting the else Block 
-  - [ ] Testing Multiple Conditions 
-  - [ ] Exercise 5-3: Alien Colors #1
+  - [x] Exercise 5-1: Conditional Tests
+  - [x] Exercise 5-2: More Conditional Tests 
+- [x] <b>if Statements</b>
+  - [x] Simple if Statements
+  - [x] if-else Statements
+  - [x] The if-elif-else Chain 
+  - [x] Using Multiple elif Blocks 
+  - [x] Omitting the else Block 
+  - [x] Testing Multiple Conditions 
+  - [ ] Exercise 5-3: Alien Colors #1 👈
   - [ ] Exercise 5-4: Alien Colors #2 
   - [ ] Exercise 5-5: Alien Colors #3 
   - [ ] Exercise 5-6: Stages of Life 

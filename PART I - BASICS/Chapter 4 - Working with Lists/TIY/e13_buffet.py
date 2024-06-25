@@ -1,4 +1,4 @@
-foods = ('pizza','pasta', 'fish', 'meat', 'sushi')  # TUPLE defined
+foods = ('pizza', 'pasta', 'fish', 'meat', 'sushi')  # TUPLE defined
 
 print("This is my original food list: ")
 for food in foods:
