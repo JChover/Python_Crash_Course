@@ -169,8 +169,8 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] <b>Summary</b> 
 </details>
 
-<details open>
-<summary><b>Chapter 5 - If Statements</b></summary>
+<details>
+<summary><b>Chapter 5 - If Statements</b> ✔️</summary>
 
 - [x] <b>A Simple Example</b>
 - [x] <b>Conditional Tests</b>
@@ -191,29 +191,29 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Using Multiple elif Blocks 
   - [x] Omitting the else Block 
   - [x] Testing Multiple Conditions 
-  - [ ] Exercise 5-3: Alien Colors #1 👈
-  - [ ] Exercise 5-4: Alien Colors #2 
-  - [ ] Exercise 5-5: Alien Colors #3 
-  - [ ] Exercise 5-6: Stages of Life 
-  - [ ] Exercise 5-7: Favorite Fruit 
-- [ ] <b>Using if Statements with Lists</b> 
-  - [ ] Checking for Special Items
-  - [ ] Checking That a List Is Not Empty
-  - [ ] Using Multiple Lists 
-  - [ ] Exercise 5-8: Hello Admin 
-  - [ ] Exercise 5-9: No Users 
-  - [ ] Exercise 5-10: Checking Usernames 
-  - [ ] Exercise 5-11: Ordinal Numbers 
-- [ ] <b>Styling Your if Statements</b> 
-  - [ ] Exercise 5-12: Styling if statements 
-  - [ ] Exercise 5-13: Your Ideas 
-- [ ] <b>Summary</b> 
+  - [x] Exercise 5-3: Alien Colors #1
+  - [x] Exercise 5-4: Alien Colors #2 
+  - [x] Exercise 5-5: Alien Colors #3 
+  - [x] Exercise 5-6: Stages of Life 
+  - [x] Exercise 5-7: Favorite Fruit 
+- [x] <b>Using if Statements with Lists</b> 
+  - [x] Checking for Special Items
+  - [x] Checking That a List Is Not Empty
+  - [x] Using Multiple Lists 
+  - [x] Exercise 5-8: Hello Admin
+  - [x] Exercise 5-9: No Users 
+  - [x] Exercise 5-10: Checking Usernames 
+  - [x] Exercise 5-11: Ordinal Numbers 
+- [x] <b>Styling Your if Statements</b> 
+  - [x] Exercise 5-12: Styling if statements 
+  - [x] Exercise 5-13: Your Ideas 
+- [x] <b>Summary</b> 
 </details>
 
-<details>
+<details open>
 <summary><b>Chapter 6 - Dictionaries</b></summary>
 
-- [ ] <b>A Simple Dictionary</b>
+- [ ] <b>A Simple Dictionary</b> 👈
 - [ ] <b>Working with Dictionaries</b> 
   - [ ] Accessing Values in a Dictionary 
   - [ ] Adding New Key-Value Pairs 
