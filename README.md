@@ -94,7 +94,7 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] <b>What Is a List?</b> 
     - [x] Accessing Elements in a List
     - [x] Index Positions Start at 0, Not 1
-    - [x] Using Individual Values from a List . 35
+    - [x] Using Individual Values from a List
     - [x] Exercise 3-1: Names 
     - [x] Exercise 3-2: Greetings 
     - [x] Exercise 3-3: Your Own List 
