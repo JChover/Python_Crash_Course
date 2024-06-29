@@ -213,17 +213,17 @@ Here I will keep track of all the exercises and contents learned while reading t
 <details open>
 <summary><b>Chapter 6 - Dictionaries</b></summary>
 
-- [ ] <b>A Simple Dictionary</b> 👈
-- [ ] <b>Working with Dictionaries</b> 
-  - [ ] Accessing Values in a Dictionary 
-  - [ ] Adding New Key-Value Pairs 
-  - [ ] Starting with an Empty Dictionary
-  - [ ] Modifying Values in a Dictionary 
-  - [ ] Removing Key-Value Pairs 
-  - [ ] A Dictionary of Similar Objects 
-  - [ ] Using get() to Access Values 
-  - [ ] Exercise 6-1: Person 
-  - [ ] Exercise 6-2: Favorite Numbers 
+- [x] <b>A Simple Dictionary</b>
+- [x] <b>Working with Dictionaries</b> 
+  - [x] Accessing Values in a Dictionary 
+  - [x] Adding New Key-Value Pairs 
+  - [x] Starting with an Empty Dictionary
+  - [x] Modifying Values in a Dictionary 
+  - [x] Removing Key-Value Pairs 
+  - [x] A Dictionary of Similar Objects 
+  - [x] Using get() to Access Values 
+  - [x] Exercise 6-1: Person 
+  - [ ] Exercise 6-2: Favorite Numbers 👈
   - [ ] Exercise 6-3: Glossary 
 - [ ] <b>Looping Through a Dictionary</b>
   - [ ] Looping Through All Key-Value Pairs 
