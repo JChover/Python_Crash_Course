@@ -3,7 +3,7 @@ person = {
     'first_name': 'Lucio',
     'last_name': 'Seneca',
     'age': '69',
-    'city': 'Cordoba',
+    'city': 'Cordoba'
 }
 print(person)
 print(f"His name was {person['first_name']}.")

@@ -223,18 +223,18 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] A Dictionary of Similar Objects 
   - [x] Using get() to Access Values 
   - [x] Exercise 6-1: Person 
-  - [ ] Exercise 6-2: Favorite Numbers 👈
-  - [ ] Exercise 6-3: Glossary 
-- [ ] <b>Looping Through a Dictionary</b>
-  - [ ] Looping Through All Key-Value Pairs 
-  - [ ] Looping Through All the Keys in a Dictionary 
-  - [ ] Looping Through a Dictionary’s Keys in a Particular Order 
-  - [ ] Looping Through All Values in a Dictionary 
-  - [ ] Exercise 6-4: Glossary 2 
-  - [ ] Exercise 6-5: Rivers 
-  - [ ] Exercise 6-6: Polling 
+  - [x] Exercise 6-2: Favorite Numbers
+  - [x] Exercise 6-3: Glossary 
+- [x] <b>Looping Through a Dictionary</b>
+  - [x] Looping Through All Key-Value Pairs 
+  - [x] Looping Through All the Keys in a Dictionary 
+  - [x] Looping Through a Dictionary’s Keys in a Particular Order 
+  - [x] Looping Through All Values in a Dictionary 
+  - [x] Exercise 6-4: Glossary 2 
+  - [x] Exercise 6-5: Rivers 
+  - [x] Exercise 6-6: Polling 
 - [ ] <b>Nesting</b>
-  - [ ] A List of Dictionaries 
+  - [ ] A List of Dictionaries 👈 
   - [ ] A List in a Dictionary 
   - [ ] A Dictionary in a Dictionary 
   - [ ] Exercise 6-7: People
