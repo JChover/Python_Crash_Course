@@ -210,8 +210,8 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Summary</b> 
 </details>
 
-<details open>
-<summary><b>Chapter 6 - Dictionaries</b></summary>
+<details>
+<summary><b>Chapter 6 - Dictionaries</b> ✔️</summary>
 
 - [x] <b>A Simple Dictionary</b>
 - [x] <b>Working with Dictionaries</b> 
@@ -233,23 +233,23 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Exercise 6-4: Glossary 2 
   - [x] Exercise 6-5: Rivers 
   - [x] Exercise 6-6: Polling 
-- [ ] <b>Nesting</b>
+- [x] <b>Nesting</b>
   - [x] A List of Dictionaries 
   - [x] A List in a Dictionary 
   - [x] A Dictionary in a Dictionary 
-  - [ ] Exercise 6-7: People 👈
-  - [ ] Exercise 6-8: Pets
-  - [ ] Exercise 6-9: Favorite Places
-  - [ ] Exercise 6-10: Favorite Numbers
-  - [ ] Exercise 6-11: Cities
-  - [ ] Exercise 6-12: Extensions
-- [ ] <b>Summary</b>
+  - [x] Exercise 6-7: People
+  - [x] Exercise 6-8: Pets
+  - [x] Exercise 6-9: Favorite Places
+  - [x] Exercise 6-10: Favorite Numbers
+  - [x] Exercise 6-11: Cities
+  - [x] Exercise 6-12: Extensions
+- [x] <b>Summary</b>
 </details>
 
-<details>
+<details open>
 <summary><b>Chapter 7 - User Input and While Loops</b></summary>
 
-- [ ] <b>How the input() Function Works</b>
+- [ ] <b>How the input() Function Works</b> 👈
   - [ ] Writing Clear Prompts
   - [ ] Using int() to Accept Numerical Input
   - [ ] The Modulo Operator
