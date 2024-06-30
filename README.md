@@ -234,10 +234,10 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Exercise 6-5: Rivers 
   - [x] Exercise 6-6: Polling 
 - [ ] <b>Nesting</b>
-  - [ ] A List of Dictionaries 👈 
-  - [ ] A List in a Dictionary 
-  - [ ] A Dictionary in a Dictionary 
-  - [ ] Exercise 6-7: People
+  - [x] A List of Dictionaries 
+  - [x] A List in a Dictionary 
+  - [x] A Dictionary in a Dictionary 
+  - [ ] Exercise 6-7: People 👈
   - [ ] Exercise 6-8: Pets
   - [ ] Exercise 6-9: Favorite Places
   - [ ] Exercise 6-10: Favorite Numbers

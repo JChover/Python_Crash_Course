@@ -1,0 +1,10 @@
+# A List in a Dictionary - pizza.py
+pizza = {
+    'crust': 'thick',
+    'toppings': ['mushrooms', 'extra cheese']  # We created a LIST inside the value of a Dictionary
+    }
+
+print(f"You ordered a {pizza['crust']}-crust pizza with the following toppings:")
+
+for topping in pizza['toppings']:
+    print(f"- {topping}")
