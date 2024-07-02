@@ -249,15 +249,15 @@ Here I will keep track of all the exercises and contents learned while reading t
 <details open>
 <summary><b>Chapter 7 - User Input and While Loops</b></summary>
 
-- [ ] <b>How the input() Function Works</b> 👈
-  - [ ] Writing Clear Prompts
-  - [ ] Using int() to Accept Numerical Input
-  - [ ] The Modulo Operator
-  - [ ] Exercise 7-1: Rental Car
-  - [ ] Exercise 7-2: Restaurant Seating
-  - [ ] Exercise 7-3: Multiples of Ten
+- [x] <b>How the input() Function Works</b>
+  - [x] Writing Clear Prompts
+  - [x] Using int() to Accept Numerical Input
+  - [x] The Modulo Operator
+  - [x] Exercise 7-1: Rental Car
+  - [x] Exercise 7-2: Restaurant Seating
+  - [x] Exercise 7-3: Multiples of Ten
 - [ ] <b>Introducing while Loops</b>
-  - [ ] The while Loop in Action
+  - [ ] The while Loop in Action 👈
   - [ ] Letting the User Choose When to Quit
   - [ ] Using a Flag
   - [ ] Using break to Exit a Loop
@@ -484,6 +484,7 @@ Here I will keep track of all the exercises and contents learned while reading t
 
 ## Resources
 Here I will leave all the resources I use during this project.
+- [Eric Matthes PCC Repository](https://ehmatthes.github.io/pcc_2e/regular_index/)
 - [The Zen of Python](https://peps.python.org/pep-0020/)
 - [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
 - [List of Python Keywords](https://docs.python.org/3/reference/lexical_analysis.html#keywords)
