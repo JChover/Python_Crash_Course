@@ -261,10 +261,10 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Letting the User Choose When to Quit
   - [x] Using a Flag
   - [x] Using break to Exit a Loop
-  - [ ] Using continue in a Loop 👈
-  - [ ] Avoiding Infinite Loops
-  - [ ] Exercise 7-4: Pizza Toppings
-  - [ ] Exercise 7-5: Movie Tickets
+  - [x] Using continue in a Loop
+  - [x] Avoiding Infinite Loops
+  - [x] Exercise 7-4: Pizza Toppings
+  - [ ] Exercise 7-5: Movie Tickets 👈
   - [ ] Exercise 7-6: Three Exits
   - [ ] Exercise 7-7: Infinity
 - [ ] <b>Using a while Loop with Lists and Dictionaries</b>
