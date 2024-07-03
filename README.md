@@ -257,11 +257,11 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Exercise 7-2: Restaurant Seating
   - [x] Exercise 7-3: Multiples of Ten
 - [ ] <b>Introducing while Loops</b>
-  - [ ] The while Loop in Action 👈
-  - [ ] Letting the User Choose When to Quit
-  - [ ] Using a Flag
-  - [ ] Using break to Exit a Loop
-  - [ ] Using continue in a Loop
+  - [x] The while Loop in Action
+  - [x] Letting the User Choose When to Quit
+  - [x] Using a Flag
+  - [x] Using break to Exit a Loop
+  - [ ] Using continue in a Loop 👈
   - [ ] Avoiding Infinite Loops
   - [ ] Exercise 7-4: Pizza Toppings
   - [ ] Exercise 7-5: Movie Tickets
