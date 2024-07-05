@@ -256,7 +256,7 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Exercise 7-1: Rental Car
   - [x] Exercise 7-2: Restaurant Seating
   - [x] Exercise 7-3: Multiples of Ten
-- [ ] <b>Introducing while Loops</b>
+- [x] <b>Introducing while Loops</b>
   - [x] The while Loop in Action
   - [x] Letting the User Choose When to Quit
   - [x] Using a Flag
@@ -264,10 +264,10 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Using continue in a Loop
   - [x] Avoiding Infinite Loops
   - [x] Exercise 7-4: Pizza Toppings
-  - [ ] Exercise 7-5: Movie Tickets 👈
-  - [ ] Exercise 7-6: Three Exits
-  - [ ] Exercise 7-7: Infinity
-- [ ] <b>Using a while Loop with Lists and Dictionaries</b>
+  - [x] Exercise 7-5: Movie Tickets
+  - [x] Exercise 7-6: Three Exits
+  - [x] Exercise 7-7: Infinity
+- [ ] <b>Using a while Loop with Lists and Dictionaries</b> 👈
   - [ ] Moving Items from One List to Another
   - [ ] Removing All Instances of Specific Values from a List
   - [ ] Filling a Dictionary with User Input
