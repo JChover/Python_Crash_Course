@@ -502,10 +502,3 @@ What I have learned reading this book.
 
 ## Conclusions
 What are my conclusion after reading this book.
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
