@@ -267,10 +267,10 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Exercise 7-5: Movie Tickets
   - [x] Exercise 7-6: Three Exits
   - [x] Exercise 7-7: Infinity
-- [ ] <b>Using a while Loop with Lists and Dictionaries</b> 👈
-  - [ ] Moving Items from One List to Another
-  - [ ] Removing All Instances of Specific Values from a List
-  - [ ] Filling a Dictionary with User Input
+- [x] <b>Using a while Loop with Lists and Dictionaries</b>
+  - [x] Moving Items from One List to Another
+  - [x] Removing All Instances of Specific Values from a List
+  - [ ] Filling a Dictionary with User Input 👈
   - [ ] Exercise 7-8: Deli
   - [ ] Exercise 7-9: No Pastrami
   - [ ] Exercise 7-10: Dream Vacation
