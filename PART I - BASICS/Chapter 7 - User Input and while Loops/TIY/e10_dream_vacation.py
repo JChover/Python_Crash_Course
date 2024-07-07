@@ -1,11 +1,11 @@
-# Filling a Dictionary with User Input - mountain_poll.py
+# 7-10 Dream Vacation
 responses = {}
 
 polling_active = True
 
 while polling_active:
     name = input("\nWhat is your name? : ")
-    response = input("Which mountain would you like to climb someday? ")
+    response = input("What is your dream vacation location? ")
 
     responses[name] = response
 
@@ -15,4 +15,4 @@ while polling_active:
 
 print("\n--- Poll Results ---")
 for name, response in responses.items():
-    print(f"{name} would like to climb {response}.")
+    print(f"{name}'s dream vacation location is {response}.")

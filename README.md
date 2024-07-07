@@ -246,8 +246,8 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Summary</b>
 </details>
 
-<details open>
-<summary><b>Chapter 7 - User Input and While Loops</b></summary>
+<details>
+<summary><b>Chapter 7 - User Input and While Loops</b> ✔️</summary>
 
 - [x] <b>How the input() Function Works</b>
   - [x] Writing Clear Prompts
@@ -270,17 +270,17 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Using a while Loop with Lists and Dictionaries</b>
   - [x] Moving Items from One List to Another
   - [x] Removing All Instances of Specific Values from a List
-  - [ ] Filling a Dictionary with User Input 👈
-  - [ ] Exercise 7-8: Deli
-  - [ ] Exercise 7-9: No Pastrami
-  - [ ] Exercise 7-10: Dream Vacation
-- [ ] <b>Summary</b>
+  - [x] Filling a Dictionary with User Input
+  - [x] Exercise 7-8: Deli
+  - [x] Exercise 7-9: No Pastrami
+  - [x] Exercise 7-10: Dream Vacation
+- [x] <b>Summary</b>
 </details>
 
-<details>
+<details open>
 <summary><b>Chapter 8 - Functions</b></summary>
 
-- [ ] <b>Defining a Function</b>
+- [ ] <b>Defining a Function</b> 👈
   - [ ] Passing Information to a Function
   - [ ] Arguments and Parameters
   - [ ] Exercise 8-1: Message 
