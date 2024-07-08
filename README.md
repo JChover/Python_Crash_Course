@@ -280,17 +280,17 @@ Here I will keep track of all the exercises and contents learned while reading t
 <details open>
 <summary><b>Chapter 8 - Functions</b></summary>
 
-- [ ] <b>Defining a Function</b> 👈
-  - [ ] Passing Information to a Function
-  - [ ] Arguments and Parameters
-  - [ ] Exercise 8-1: Message 
-  - [ ] Exercise 8-2: Favorite Book
+- [x] <b>Defining a Function</b>
+  - [x] Passing Information to a Function
+  - [x] Arguments and Parameters
+  - [x] Exercise 8-1: Message 
+  - [x] Exercise 8-2: Favorite Book
 - [ ] <b>Passing Arguments</b> 
-  - [ ] Positional Arguments 
-  - [ ] Keyword Arguments 
-  - [ ] Default Values 
-  - [ ] Equivalent Function Calls
-  - [ ] Avoiding Argument Errors
+  - [x] Positional Arguments 
+  - [x] Keyword Arguments 
+  - [x] Default Values 
+  - [x] Equivalent Function Calls
+  - [ ] Avoiding Argument Errors 👈
   - [ ] Exercise 8-3: T-Shirt 
   - [ ] Exercise 8-4: Large Shirts 
   - [ ] Exercise 8-5: Cities 
