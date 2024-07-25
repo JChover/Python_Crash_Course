@@ -290,11 +290,11 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Keyword Arguments 
   - [x] Default Values 
   - [x] Equivalent Function Calls
-  - [ ] Avoiding Argument Errors 👈
-  - [ ] Exercise 8-3: T-Shirt 
-  - [ ] Exercise 8-4: Large Shirts 
-  - [ ] Exercise 8-5: Cities 
-- [ ] <b>Return Values</b>
+  - [x] Avoiding Argument Errors
+  - [x] Exercise 8-3: T-Shirt
+  - [x] Exercise 8-4: Large Shirts 
+  - [x] Exercise 8-5: Cities 
+- [ ] <b>Return Values</b> 👈
   - [ ] Returning a Simple Value
   - [ ] Making an Argument Optional 
   - [ ] Returning a Dictionary
