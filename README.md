@@ -285,7 +285,7 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Arguments and Parameters
   - [x] Exercise 8-1: Message 
   - [x] Exercise 8-2: Favorite Book
-- [ ] <b>Passing Arguments</b> 
+- [x] <b>Passing Arguments</b> 
   - [x] Positional Arguments 
   - [x] Keyword Arguments 
   - [x] Default Values 
