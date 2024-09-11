@@ -294,11 +294,11 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Exercise 8-3: T-Shirt
   - [x] Exercise 8-4: Large Shirts 
   - [x] Exercise 8-5: Cities 
-- [ ] <b>Return Values</b> 👈
-  - [ ] Returning a Simple Value
-  - [ ] Making an Argument Optional 
-  - [ ] Returning a Dictionary
-  - [ ] Using a Function with a while Loop
+- [ ] <b>Return Values</b>
+  - [x] Returning a Simple Value
+  - [x] Making an Argument Optional 
+  - [x] Returning a Dictionary
+  - [ ] Using a Function with a while Loop 👈
   - [ ] Exercise 8-6: City Names 
   - [ ] Exercise 8-7: Album 
   - [ ] Exercise 8-8: User Albums 
