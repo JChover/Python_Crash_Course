@@ -299,8 +299,8 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Making an Argument Optional 
   - [x] Returning a Dictionary
   - [x] Using a Function with a while Loop
-  - [ ] Exercise 8-6: City Names 👈
-  - [ ] Exercise 8-7: Album 
+  - [x] Exercise 8-6: City Names
+  - [ ] Exercise 8-7: Album 👈
   - [ ] Exercise 8-8: User Albums 
 - [ ] <b>Passing a List</b> 
   - [ ] Modifying a List in a Function 
