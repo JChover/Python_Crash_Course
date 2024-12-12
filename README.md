@@ -294,7 +294,7 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Exercise 8-3: T-Shirt
   - [x] Exercise 8-4: Large Shirts 
   - [x] Exercise 8-5: Cities 
-- [ ] <b>Return Values</b>
+- [x] <b>Return Values</b>
   - [x] Returning a Simple Value
   - [x] Making an Argument Optional 
   - [x] Returning a Dictionary
@@ -302,7 +302,7 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Exercise 8-6: City Names
   - [x] Exercise 8-7: Album
   - [x] Exercise 8-8: User Albums 
-- [ ] <b>Passing a List</b> 
+- [x] <b>Passing a List</b> 
   - [ ] Modifying a List in a Function 👈
   - [ ] Preventing a Function from Modifying a List 
   - [ ] Exercise 8-9: Messages 
