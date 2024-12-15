@@ -305,17 +305,17 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Passing a List</b> 
   - [x] Modifying a List in a Function
   - [x] Preventing a Function from Modifying a List 
-  - [ ] Exercise 8-9: Messages 👈
-  - [ ] Exercise 8-10: Sending Messages 
-  - [ ] Exercise 8-11: Archived Messages 
-- [ ] <b>Passing an Arbitrary Number of Arguments</b> 
-  - [ ] Mixing Positional and Arbitrary Arguments 
-  - [ ] Using Arbitrary Keyword Arguments 
-  - [ ] Exercise 8-12: Sandwiches 
-  - [ ] Exercise 8-13: User Profile 
-  - [ ] Exercise 8-14: Cars 
+  - [x] Exercise 8-9: Messages
+  - [x] Exercise 8-10: Sending Messages 
+  - [x] Exercise 8-11: Archived Messages 
+- [x] <b>Passing an Arbitrary Number of Arguments</b> 
+  - [x] Mixing Positional and Arbitrary Arguments 
+  - [x] Using Arbitrary Keyword Arguments 
+  - [x] Exercise 8-12: Sandwiches
+  - [x] Exercise 8-13: User Profile 
+  - [x] Exercise 8-14: Cars 
 - [ ] <b>Storing Your Functions in Modules</b> 
-  - [ ] Importing an Entire Module 
+  - [ ] Importing an Entire Module 👈
   - [ ] Importing Specific Functions 
   - [ ] Using as to Give a Function an Alias 
   - [ ] Using as to Give a Module an Alias 
