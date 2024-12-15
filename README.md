@@ -303,9 +303,9 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Exercise 8-7: Album
   - [x] Exercise 8-8: User Albums 
 - [x] <b>Passing a List</b> 
-  - [ ] Modifying a List in a Function 👈
-  - [ ] Preventing a Function from Modifying a List 
-  - [ ] Exercise 8-9: Messages 
+  - [x] Modifying a List in a Function
+  - [x] Preventing a Function from Modifying a List 
+  - [ ] Exercise 8-9: Messages 👈
   - [ ] Exercise 8-10: Sending Messages 
   - [ ] Exercise 8-11: Archived Messages 
 - [ ] <b>Passing an Arbitrary Number of Arguments</b> 
