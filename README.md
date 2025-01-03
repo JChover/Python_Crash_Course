@@ -314,14 +314,14 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Exercise 8-12: Sandwiches
   - [x] Exercise 8-13: User Profile 
   - [x] Exercise 8-14: Cars 
-- [ ] <b>Storing Your Functions in Modules</b> 
-  - [ ] Importing an Entire Module 👈
-  - [ ] Importing Specific Functions 
-  - [ ] Using as to Give a Function an Alias 
-  - [ ] Using as to Give a Module an Alias 
-  - [ ] Importing All Functions in a Module 
-- [ ] <b>Styling Functions</b>
-  - [ ] Exercise 8-15: Printing Models 
+- [x] <b>Storing Your Functions in Modules</b> 
+  - [x] Importing an Entire Module
+  - [x] Importing Specific Functions 
+  - [x] Using as to Give a Function an Alias 
+  - [x] Using as to Give a Module an Alias 
+  - [x] Importing All Functions in a Module 
+- [x] <b>Styling Functions</b>
+  - [ ] Exercise 8-15: Printing Models 👈
   - [ ] Exercise 8-16: Imports 
   - [ ] Exercise 8-17: Styling Functions
 - [ ] <b>Summary</b>
