@@ -330,15 +330,15 @@ Here I will keep track of all the exercises and contents learned while reading t
 <details open>
 <summary><b>Chapter 9 - Classes</b></summary>
 
-- [ ] <b>Creating and Using a Class</b> 👈
-  - [ ] Creating the Dog Class
-  - [ ] Making an Instance from a Class
-  - [ ] Exercise 9-1: Restaurant
-  - [ ] Exercise 9-2: Three Restaurants
-  - [ ] Exercise 9-3: Users
-- [ ] <b>Working with Classes and Instances</b>
-  - [ ] The Car Class
-  - [ ] Setting a Default Value for an Attribute
+- [x] <b>Creating and Using a Class</b>
+  - [x] Creating the Dog Class
+  - [x] Making an Instance from a Class
+  - [x] Exercise 9-1: Restaurant
+  - [x] Exercise 9-2: Three Restaurants
+  - [x] Exercise 9-3: Users
+- [x] <b>Working with Classes and Instances</b>
+  - [x] The Car Class
+  - [ ] Setting a Default Value for an Attribute 👈
   - [ ] Modifying Attribute Values
   - [ ] Exercise 9-4: Number Served
   - [ ] Exercise 9-5: Login Attempts
