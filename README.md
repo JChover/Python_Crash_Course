@@ -278,7 +278,7 @@ Here I will keep track of all the exercises and contents learned while reading t
 </details>
 
 <details>
-<summary><b>Chapter 8 - Functions</b> ✔️<</summary>
+<summary><b>Chapter 8 - Functions</b> ✔️</summary>
 
 - [x] <b>Defining a Function</b>
   - [x] Passing Information to a Function
