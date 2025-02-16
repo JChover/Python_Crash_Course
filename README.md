@@ -277,8 +277,8 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Summary</b>
 </details>
 
-<details open>
-<summary><b>Chapter 8 - Functions</b></summary>
+<details>
+<summary><b>Chapter 8 - Functions</b> ✔️<</summary>
 
 - [x] <b>Defining a Function</b>
   - [x] Passing Information to a Function
@@ -321,16 +321,16 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Using as to Give a Module an Alias 
   - [x] Importing All Functions in a Module 
 - [x] <b>Styling Functions</b>
-  - [ ] Exercise 8-15: Printing Models 👈
-  - [ ] Exercise 8-16: Imports 
-  - [ ] Exercise 8-17: Styling Functions
-- [ ] <b>Summary</b>
+  - [x] Exercise 8-15: Printing Models
+  - [x] Exercise 8-16: Imports 
+  - [x] Exercise 8-17: Styling Functions
+- [x] <b>Summary</b>
 </details>
 
-<details>
+<details open>
 <summary><b>Chapter 9 - Classes</b></summary>
 
-- [ ] <b>Creating and Using a Class</b>
+- [ ] <b>Creating and Using a Class</b> 👈
   - [ ] Creating the Dog Class
   - [ ] Making an Instance from a Class
   - [ ] Exercise 9-1: Restaurant
