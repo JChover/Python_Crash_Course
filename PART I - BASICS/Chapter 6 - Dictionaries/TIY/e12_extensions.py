@@ -1,4 +1,4 @@
-# 6-12 Extensions - from pizza.py
+# 6-12 Extensions - from pizza_old.py
 pizzas = {
     'prosciutto': {
         'toppings': ['tomato', 'mozzarella', 'ham', 'oregano'],

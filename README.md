@@ -338,11 +338,11 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Exercise 9-3: Users
 - [x] <b>Working with Classes and Instances</b>
   - [x] The Car Class
-  - [ ] Setting a Default Value for an Attribute 👈
-  - [ ] Modifying Attribute Values
-  - [ ] Exercise 9-4: Number Served
-  - [ ] Exercise 9-5: Login Attempts
-- [ ] <b>Inheritance</b>
+  - [x] Setting a Default Value for an Attribute
+  - [x] Modifying Attribute Values
+  - [x] Exercise 9-4: Number Served
+  - [x] Exercise 9-5: Login Attempts
+- [ ] <b>Inheritance</b>  👈
   - [ ] The `__init__()` Method for a Child Class
   - [ ] Defining Attributes and Methods for the Child Class
   - [ ] Overriding Methods from the Parent Class

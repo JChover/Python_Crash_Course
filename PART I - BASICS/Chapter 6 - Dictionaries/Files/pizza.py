@@ -1,4 +1,4 @@
-# A List in a Dictionary - pizza.py
+# A List in a Dictionary - pizza_old.py
 pizza = {
     'crust': 'thick',
     'toppings': ['mushrooms', 'extra cheese']  # We created a LIST inside the value of a Dictionary
