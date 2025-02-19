@@ -344,11 +344,11 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Exercise 9-5: Login Attempts
 - [x] <b>Inheritance</b> 
   - [x] The `__init__()` Method for a Child Class
-  - [x] Defining Attributes and Methods for the Child Class 👈
+  - [x] Defining Attributes and Methods for the Child Class
   - [x] Overriding Methods from the Parent Class
-  - [ ] Instances as Attributes
-  - [ ] Modeling Real-World Objects
-  - [ ] Exercise 9-6: Ice Cream Stand
+  - [x] Instances as Attributes
+  - [x] Modeling Real-World Objects
+  - [ ] Exercise 9-6: Ice Cream Stand 👈
   - [ ] Exercise 9-7: Admin
   - [ ] Exercise 9-8: Privileges
   - [ ] Exercise 9-9: Battery Upgrade
