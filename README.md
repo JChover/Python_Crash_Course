@@ -348,9 +348,9 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Overriding Methods from the Parent Class
   - [x] Instances as Attributes
   - [x] Modeling Real-World Objects
-  - [ ] Exercise 9-6: Ice Cream Stand 👈
-  - [ ] Exercise 9-7: Admin
-  - [ ] Exercise 9-8: Privileges
+  - [x] Exercise 9-6: Ice Cream Stand
+  - [x] Exercise 9-7: Admin
+  - [ ] Exercise 9-8: Privileges 👈
   - [ ] Exercise 9-9: Battery Upgrade
 - [ ] <b>Importing Classes</b>
   - [ ] Importing a Single Class
