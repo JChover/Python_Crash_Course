@@ -350,18 +350,18 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Modeling Real-World Objects
   - [x] Exercise 9-6: Ice Cream Stand
   - [x] Exercise 9-7: Admin
-  - [ ] Exercise 9-8: Privileges 👈
-  - [ ] Exercise 9-9: Battery Upgrade
-- [ ] <b>Importing Classes</b>
-  - [ ] Importing a Single Class
-  - [ ] Storing Multiple Classes in a Module
-  - [ ] Importing Multiple Classes from a Module
-  - [ ] Importing an Entire Module
-  - [ ] Importing All Classes from a Module
-  - [ ] Importing a Module into a Module
-  - [ ] Using Aliases
-  - [ ] Finding Your Own Workflow
-  - [ ] Exercise 9-10: Imported Restaurant
+  - [x] Exercise 9-8: Privileges
+  - [x] Exercise 9-9: Battery Upgrade
+- [x] <b>Importing Classes</b>
+  - [x] Importing a Single Class
+  - [x] Storing Multiple Classes in a Module
+  - [x] Importing Multiple Classes from a Module
+  - [x] Importing an Entire Module
+  - [x] Importing All Classes from a Module
+  - [x] Importing a Module into a Module
+  - [x] Using Aliases
+  - [x] Finding Your Own Workflow
+  - [ ] Exercise 9-10: Imported Restaurant 👈
   - [ ] Exercise 9-11: Imported Admin
   - [ ] Exercise 9-12: Multiple Modules
 - [ ] <b>The Python Standard Library</b>
