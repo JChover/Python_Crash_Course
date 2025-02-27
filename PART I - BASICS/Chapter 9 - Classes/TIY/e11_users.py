@@ -1,4 +1,4 @@
-# 9-8 Privileges
+# 9-11 Imported Admin - e11_users.py
 class User:
     def __init__(self, first_name, last_name, age, email):
         self.first_name = first_name
@@ -34,16 +34,3 @@ class Admin(User):
     def __init__(self, first_name, last_name, age, email):
         super().__init__(first_name, last_name, age, email)
         self.privileges = Privileges()
-
-
-# Create an instance of Admin
-admin_user = Admin('Jane', 'Doe', 35, 'jane.doe@example.com')
-
-# Call the describe_user method to show user information
-admin_user.describe_user()
-
-# Call the greet_user method to greet the admin
-admin_user.greet_user()
-
-# Use the Privileges instance to display the admin's privileges
-admin_user.privileges.show_privileges()

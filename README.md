@@ -327,8 +327,8 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Summary</b>
 </details>
 
-<details open>
-<summary><b>Chapter 9 - Classes</b></summary>
+<details>
+<summary><b>Chapter 9 - Classes</b> ✔️</summary>
 
 - [x] <b>Creating and Using a Class</b>
   - [x] Creating the Dog Class
@@ -361,22 +361,22 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Importing a Module into a Module
   - [x] Using Aliases
   - [x] Finding Your Own Workflow
-  - [ ] Exercise 9-10: Imported Restaurant 👈
-  - [ ] Exercise 9-11: Imported Admin
-  - [ ] Exercise 9-12: Multiple Modules
-- [ ] <b>The Python Standard Library</b>
-  - [ ] Exercise 9-13: Dice
-  - [ ] Exercise 9-14: Lottery
-  - [ ] Exercise 9-15: Lottery Analysis
-  - [ ] Exercise 9-16: Python Module of the Week
-- [ ] <b>Styling Classes</b>
-- [ ] <b>Summary</b>
+  - [x] Exercise 9-10: Imported Restaurant
+  - [x] Exercise 9-11: Imported Admin
+  - [x] Exercise 9-12: Multiple Modules
+- [x] <b>The Python Standard Library</b>
+  - [x] Exercise 9-13: Dice
+  - [x] Exercise 9-14: Lottery
+  - [x] Exercise 9-15: Lottery Analysis
+  - [x] Exercise 9-16: Python Module of the Week
+- [x] <b>Styling Classes</b>
+- [x] <b>Summary</b>
 </details>
 
-<details>
+<details open>
 <summary><b>Chapter 10 - Files and Exceptions</b></summary>
 
-- [ ] <b>Reading from a File</b>
+- [ ] <b>Reading from a File</b> 👈
   - [ ] Reading an Entire File
   - [ ] File Paths
   - [ ] Reading Line by Line
@@ -492,6 +492,8 @@ Here I will leave all the resources I use during this project.
 - [List of Python Operators and Delimiters](https://docs.python.org/3/reference/lexical_analysis.html#operators)
 - [List of Python Built-in Functions](https://docs.python.org/3/library/functions.html)
 - [List of Python Built-in Types](https://docs.python.org/3/library/stdtypes.html)
+- [The Python Standard Library](https://docs.python.org/3/library/index.html)
+- [Python Module of the Week](https://pymotw.com/3/)
 
 ## Learned
 What I have learned reading this book.
