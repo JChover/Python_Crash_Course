@@ -444,42 +444,331 @@ Here I will keep track of all the exercises and contents learned while reading t
 
 <details>
 <summary><b>Chapter 12 - A Ship that Fires Bullets</b></summary>
+
+- [ ] <b>Planning Your Project</b>
+- [ ] <b>Installing Pygame</b>
+- [ ] <b>Starting the Game Project</b>
+  - [ ] Creating a Pygame Window and Responding to User Input
+  - [ ] Setting the Background Color
+  - [ ] Creating a Setting Class
+- [ ] <b>Adding the Ship Image</b>
+    - [ ] Creating the Ship Class
+    - [ ] Drawing the Ship to the Screen
+- [ ] <b>Refactoring: The _check_events() and _update_screen() Methods</b>
+  - [ ] The _check_events() Method
+  - [ ] The _update_screen() Method
+  - [ ] Exercise 12-1: Blue Sky
+  - [ ] Exercise 12-2: Game Character
+- [ ] <b>Piloting the Ship</b>
+  - [ ] Responding to a Keypress
+  - [ ] Allowing Continuous Movement
+  - [ ] Moving Both Left and Right
+  - [ ] Adjusting the Ship's Speed
+  - [ ] Limiting the Ship's Range
+  - [ ] Refactoring _check_events()
+  - [ ] Pressing Q to Quit
+  - [ ] Running the Game in Fullscreen Mode
+- [ ] <b>A Quick Recap</b>
+  - [ ] alien_invasion.py
+  - [ ] settings.py
+  - [ ] ship.py
+  - [ ] Exercise 12-3: Pygame Documentation
+  - [ ] Exercise 12-4: Rocket
+  - [ ] Exercise 12-5: Keys
+- [ ] <b>Shooting Bullets</b>
+  - [ ] Adding the Bullet Settings
+  - [ ] Creating the Bullet Class
+  - [ ] Storing the Bullets in a Group
+  - [ ] Firing Bullets
+  - [ ] Deleting Old Bullets
+  - [ ] Limiting the Number of Bullets
+  - [ ] Creating the _update_bullets() Method
+  - [ ] Exercise 12-6: Sideways Shooter
+- [ ] <b>Summary</b>
 </details>
 
 <details>
 <summary><b>Chapter 13 - ALIENS!</b></summary>
+
+- [ ] <b>Reviewing the Project</b>
+- [ ] <b>Creating the First Alien</b>
+  - [ ] Creating the Alien Class
+  - [ ] Creating an Instance of the Alien
+- [ ] <b>Building the Alien Fleet</b>
+  - [ ] Determining How Many Aliens Fit in a Row
+  - [ ] Creating a Row of Aliens
+  - [ ] Refactoring _create_fleet()
+  - [ ] Adding Rows
+  - [ ] Exercise 13-1: Stars
+  - [ ] Exercise 13-2: Better Stars
+- [ ] <b>Making the Fleet Move</b>
+  - [ ] Moving the Aliens Right
+  - [ ] Creating Settings for Fleet Direction
+  - [ ] Checking Whether an Alien Has Hit the Edge
+  - [ ] Dropping the Fleet and Changing Direction
+  - [ ] Exercise 13-3: Raindrops 
+  - [ ] Exercise 13-4: Steady Rain
+- [ ] <b>Shooting Aliens</b>
+  - [ ] Detecting Bullet Collisions
+  - [ ] Making Larger Bullets for Testing
+  - [ ] Repopulating the Fleet
+  - [ ] Speeding Up the Bullets
+  - [ ] Refactoring _update_bullets()
+  - [ ] Exercise 13-5: Sideways Shooter Part 2
+- [ ] <b>Ending the Game</b>
+  - [ ] Detecting Alien and Ship Collisions
+  - [ ] Responding to Alien and Ship Collisions
+  - [ ] Aliens that Reach the Bottom of the Screen
+  - [ ] Game Over!
+  - [ ] Identifying When Parts of the Game Should Run
+  - [ ] Exercise 13-6: Game Over
+- [ ] <b>Summary</b>
 </details>
 
 <details>
 <summary><b>Chapter 14 - Scoring</b></summary>
+
+- [ ] <b>Adding the Play Button</b>
+  - [ ] Creating a Button Class
+  - [ ] Drawing the Button on the Screen
+  - [ ] Starting the Game
+  - [ ] Resetting the Game
+  - [ ] Deactivating the Play Button
+  - [ ] Hiding the Mouse Cursor
+  - [ ] Exercise 14-1: Press P to Play
+  - [ ] Exercise 14-2: Target Practice
+- [ ] <b>Leveling Up</b>
+  - [ ] Modifying the Speed Settings
+  - [ ] Resetting the Speed
+  - [ ] Exercise 14-3: Challenging Target Practice
+  - [ ] Exercise 14-4: Difficulty Levels
+- [ ] <b>Scoring</b>
+  - [ ] Displaying the Score
+  - [ ] Making a Scoreboard
+  - [ ] Updating the Score as Aliens Are Shot Down
+  - [ ] Resetting the Score
+  - [ ] Making sure to Score All Hits
+  - [ ] Increasing Point Values
+  - [ ] Rounding the Score
+  - [ ] High Scores
+  - [ ] Displaying the Level
+  - [ ] Displaying the Number of ships
+  - [ ] Exercise 14-5: All-Time High Score
+  - [ ] Exercise 14-6: Refactoring
+  - [ ] Exercise 14-7: Expanding the Game
+  - [ ] Exercise 14-8: Sideways Shooter, Final Version
+- [ ] <b>Summary</b>
 </details>
 
 #### Project 2: Data Visualization
 
 <details>
 <summary><b>Chapter 15 - Generating Data</b></summary>
+
+- [ ] <b>Installing Matplotlib</b>
+- [ ] <b>Plotting a Simple Line Graph</b>
+  - [ ] Changing the Label Type and Line Thickness
+  - [ ] Correcting the Plot
+  - [ ] Using Built-in Styles
+  - [ ] Plotting and Styling Individual Points with scatter()
+  - [ ] Plotting a Series of Points with scatter()
+  - [ ] Calculating Data Automatically
+  - [ ] Defining Custom Colors
+  - [ ] Using a Colormap
+  - [ ] Saving Your Plots Automatically
+  - [ ] Exercise 15-1: Cubes
+  - [ ] Exercise 15-2: Colored Cubes
+- [ ] <b>Random Walks</b>
+  - [ ] Creating the RandomWalk() Class
+  - [ ] Choosing Directions
+  - [ ] Plotting the Random Walk
+  - [ ] Generating Multiple Random Walks
+  - [ ] Styling the Walks
+  - [ ] Exercise 15-3: Molecular Motion
+  - [ ] Exercise 15-4: Modified Random Walks
+  - [ ] Exercise 15-5: Refactoring
+- [ ] <b>Rolling Dice with Plotly</b>
+  - [ ] Installing Plotly
+  - [ ] Creating the Die Class
+  - [ ] Rolling the Die
+  - [ ] Analyzing the Results
+  - [ ] Making a Histogram
+  - [ ] Rolling two Dice
+  - [ ] Rolling Dice of Different Sizes
+  - [ ] Exercise 15-6: Two D8s
+  - [ ] Exercise 15-7: Three Dice
+  - [ ] Exercise 15-8: Multiplication
+  - [ ] Exercise 15-9: Die Comprehensions
+  - [ ] Exercise 15-10: Practicing with Both Libraries
+- [ ] <b>Summary</b>
 </details>
 
 <details>
 <summary><b>Chapter 16 - Downloading Data</b></summary>
+
+- [ ] <b>The CSV File Format</b>
+  - [ ] Parsing the CSV File Headers
+  - [ ] Printing the Header and Their Positions
+  - [ ] Extracting and Reading Data
+  - [ ] Plotting Data in a Temperature Chart
+  - [ ] The datetime Module
+  - [ ] Plotting Dates
+  - [ ] Plotting a Longer Timeframe
+  - [ ] Plotting a Second Data Series
+  - [ ] Shading an Area in the Chart
+  - [ ] Error Checking
+  - [ ] Downloading Your Own Data
+  - [ ] Exercise 16-1: Sitka Rainfall
+  - [ ] Exercise 16-2: Sitka–Death Valley Comparison
+  - [ ] Exercise 16-3: San Francisco
+  - [ ] Exercise 16-4: Automatic Indexes 
+  - [ ] Exercise 16-5: Explore
+- [ ] <b>Mapping Global Data Sets: JSON Format</b>
+  - [ ] Downloading Earthquake Data
+  - [ ] Examining JSON Data
+  - [ ] Making a List of All Earthquake
+  - [ ] Extracting Magnitudes
+  - [ ] Extracting Location Data
+  - [ ] Building a World Map
+  - [ ] A Different Way of Specifying Chart Data
+  - [ ] Customizing Marker Size
+  - [ ] Customizing Marker Colors
+  - [ ] Other Colorscale
+  - [ ] Adding Hover Text
+  - [ ] Exercise 16-6: Refactoring
+  - [ ] Exercise 16-7: Automated Title
+  - [ ] Exercise 16-8: Recent Earthquakes
+  - [ ] Exercise 16-9: World Fires
+- [ ] <b>Summary</b>
 </details>
 
 <details>
 <summary><b>Chapter 17 - Working with APIs</b></summary>
+
+- [ ] <b>Using a Web API</b>
+  - [ ] Git and GitHub
+  - [ ] Requesting Data Using an API Call
+  - [ ] Installing Requests
+  - [ ] Processing an API Response
+  - [ ] Working with the Response Dictionary
+  - [ ] Summarizing the Top Repositories
+  - [ ] Monitoring API Rate Limits
+- [ ] <b>Visualizing Repositories Using Plotly</b>
+  - [ ] Refining Plotly Charts
+  - [ ] Adding Custom Tooltips
+  - [ ] Adding Clickable Links to Our Graph
+  - [ ] More About Plotly and the GitHub API
+- [ ] <b>The Hacker News API</b>
+  - [ ] Exercise 17-1: Other Languages
+  - [ ] Exercise 17-2: Active Discussions
+  - [ ] Exercise 17-3: Testing python_repos.py
+  - [ ] Exercise 17-4: Further Exploration
+- [ ] <b>Summary</b>
 </details>
 
 #### Project 3: Web Applications
 
 <details>
 <summary><b>Chapter 18 - Getting Started with DJANGO</b></summary>
+
+- [ ] <b>Setting Up a Project</b>
+  - [ ] Writing a Spec
+  - [ ] Crating a Virtual Environment
+  - [ ] Activating the Virtual Environment
+  - [ ] Installing Django
+  - [ ] Creating a Project in Django
+  - [ ] Creating the Database
+  - [ ] Viewing the Project
+  - [ ] Exercise 18-1: New Projects
+- [ ] <b>Starting an App</b>
+  - [ ] Defining Models
+  - [ ] Activating Models
+  - [ ] The Django Admin Site
+  - [ ] Defining the Entry Model
+  - [ ] Migrating the Entry Model
+  - [ ] Registering Entry with the Admin Site
+  - [ ] The Django Shell
+  - [ ] Exercise 18-2: Short Entries
+  - [ ] Exercise 18-3: The Django API
+  - [ ] Exercise 18-4: Pizzeria
+- [ ] <b>Making Pages: The Learning Log Home Page</b>
+  - [ ] Mapping a URL
+  - [ ] Writing a View
+  - [ ] Writing a Template
+  - [ ] Exercise 18-5: Meal Planner
+  - [ ] Exercise 18-6: Pizzeria Home Page
+- [ ] <b>Building Additional Pages</b>
+  - [ ] Template Inheritance
+  - [ ] The Topics Page
+  - [ ] Individual Topics Pages
+  - [ ] Exercise 18-7: Template Documentation
+  - [ ] Exercise 18-8: Pizzeria Pages
+- [ ] <b>Summary</b>
 </details>
 
 <details>
 <summary><b>Chapter 19 - User Accounts</b></summary>
+
+- [ ] <b>Allowing Users to Enter Data</b>
+  - [ ] Adding New Topics
+  - [ ] Adding New Entries
+  - [ ] Editing Entries
+  - [ ] Exercise 19-1: Blog
+- [ ] <b>Setting Up User Accounts</b>
+  - [ ] The user App
+  - [ ] The Login Page
+  - [ ] Logging Out
+  - [ ] The Registration Page
+  - [ ] Exercise 19-2: Blog Accounts
+- [ ] <b>Allowing Users to Own Their Data</b>
+  - [ ] Restricting Access with @login_required
+  - [ ] Connecting Data to Certain Users
+  - [ ] Restricting Topics Access to Appropriate Users
+  - [ ] Protecting a User’s Topics
+  - [ ] Protecting the edit_entry Page
+  - [ ] Associating New Topics with the Current User
+  - [ ] Exercise 19-3: Refactoring
+  - [ ] Exercise 19-4: Protecting new_entry
+  - [ ] Exercise 19-5: Protected Blog
+- [ ] <b>Summary</b>
 </details>
 
 <details>
 <summary><b>Chapter 20 - Styling and Deploying an APP</b></summary>
+
+- [ ] <b>Styling Learning Log</b>
+  - [ ] The django-bootstrap4 App
+  - [ ] Using Bootstrap to Style Learning Log
+  - [ ] Modifying base.html
+  - [ ] Styling the Home Page Using a Jumbotron
+  - [ ] Styling the Login Page
+  - [ ] Styling the Topics Page
+  - [ ] Styling the Entries on the Topic Page
+  - [ ] Exercise 20-1: Other Forms
+  - [ ] Exercise 20-2: Stylish Blog
+- [ ] <b>Deploying Learning Log</b>
+  - [ ] Making a Heroku Account
+  - [ ] Installing the Heroku CLI
+  - [ ] Installing Required Packages
+  - [ ] Creating a requirements.txt File
+  - [ ] Specifying the Python Runtime
+  - [ ] Modifying settings.py for Heroku
+  - [ ] Making a Procfile to Start Processes
+  - [ ] Using Git to Track the Project’s Files
+  - [ ] Pushing to Heroku
+  - [ ] Setting Up the Database on Heroku
+  - [ ] Refining the Heroku Deployment
+  - [ ] Securing the Live Project
+  - [ ] Committing and Pushing Changes
+  - [ ] Setting Environment Variables on Heroku
+  - [ ] Creating Custom Error Pages
+  - [ ] Ongoing Development
+  - [ ] The SECRET_KEY Setting
+  - [ ] Deleting a Project on Heroku
+  - [ ] Exercise 20-3: Live Blog
+  - [ ] Exercise 20-4: More 404s
+  - [ ] Exercise 20-5: Extended Learning Log
+- [ ] <b>Summary</b>
 </details>
 
 ## Resources
