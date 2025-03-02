@@ -376,9 +376,9 @@ Here I will keep track of all the exercises and contents learned while reading t
 <details open>
 <summary><b>Chapter 10 - Files and Exceptions</b></summary>
 
-- [ ] <b>Reading from a File</b> 👈
-  - [ ] Reading an Entire File
-  - [ ] File Paths
+- [x] <b>Reading from a File</b> 👈
+  - [x] Reading an Entire File
+  - [x] File Paths
   - [ ] Reading Line by Line
   - [ ] Making a List of Lines from a File
   - [ ] Working with a File’s Contents
