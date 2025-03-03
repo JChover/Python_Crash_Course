@@ -376,14 +376,14 @@ Here I will keep track of all the exercises and contents learned while reading t
 <details open>
 <summary><b>Chapter 10 - Files and Exceptions</b></summary>
 
-- [x] <b>Reading from a File</b> 👈
+- [x] <b>Reading from a File</b>
   - [x] Reading an Entire File
   - [x] File Paths
-  - [ ] Reading Line by Line
-  - [ ] Making a List of Lines from a File
-  - [ ] Working with a File’s Contents
-  - [ ] Large Files: One Million Digits
-  - [ ] Is Your Birthday Contained in Pi?
+  - [x] Reading Line by Line
+  - [x] Making a List of Lines from a File
+  - [x] Working with a File’s Contents
+  - [x] Large Files: One Million Digits
+  - [ ] Is Your Birthday Contained in Pi? 👈
   - [ ] Exercise 10-1: Learning Python
   - [ ] Exercise 10-2: Learning C
 - [ ] <b>Writing to a File</b>
