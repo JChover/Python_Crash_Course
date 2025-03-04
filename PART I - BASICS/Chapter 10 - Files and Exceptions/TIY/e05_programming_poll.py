@@ -1,5 +1,5 @@
-# 10-5 Programming Poll - e5_programming_poll.py
-filename = 'e5_programming_poll.txt'
+# 10-5 Programming Poll - e05_programming_poll.py
+filename = 'e05_programming_poll.txt'
 
 with open(filename, 'a') as file_object:
     while True:

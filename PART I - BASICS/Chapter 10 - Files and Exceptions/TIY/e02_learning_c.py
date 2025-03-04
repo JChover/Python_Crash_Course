@@ -1,5 +1,5 @@
-# 10-2 Learning C - e2_learning_c.py
-filename = 'e1_learning_python.txt'
+# 10-2 Learning C - e02_learning_c.py
+filename = 'e01_learning_python.txt'
 
 with open(filename) as file_object:
     p_lines = file_object.readlines()

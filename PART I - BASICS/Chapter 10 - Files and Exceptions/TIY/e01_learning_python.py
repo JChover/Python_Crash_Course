@@ -1,5 +1,5 @@
-# 10-1 Learning Python - e1_learning_python.py
-filename = 'e1_learning_python.txt'
+# 10-1 Learning Python - e01_learning_python.py
+filename = 'e01_learning_python.txt'
 
 # Reading the Entire File
 with open(filename) as file_object:

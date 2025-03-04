@@ -1,5 +1,5 @@
-# 10-4 Guest Book - e4_guest_book.py
-filename = 'e4_guest_book.txt'
+# 10-4 Guest Book - e04_guest_book.py
+filename = 'e04_guest_book.txt'
 
 with open(filename, 'a') as file_object:
     while True:
