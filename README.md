@@ -400,18 +400,18 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] The else Block
   - [x] Handling the FileNotFoundError Exception
   - [x] Analyzing Text
-  - [ ] Working with Multiple Files 👈
-  - [ ] Failing Silently
-  - [ ] Deciding Which Errors to Report
-  - [ ] Exercise 10-6: Addition
-  - [ ] Exercise 10-7: Addition Calculator
-  - [ ] Exercise 10-8: Cats and Dogs
-  - [ ] Exercise 10-9: Silent Cats and Dogs
-  - [ ] Exercise 10-10: Common Words
-- [ ] <b>Storing Data</b>
-  - [ ] Using json.dump() and json.load()
-  - [ ] Saving and Reading User-Generated Data
-  - [ ] Refactoring
+  - [x] Working with Multiple Files
+  - [x] Failing Silently
+  - [x] Deciding Which Errors to Report
+  - [x] Exercise 10-6: Addition
+  - [x] Exercise 10-7: Addition Calculator
+  - [x] Exercise 10-8: Cats and Dogs
+  - [x] Exercise 10-9: Silent Cats and Dogs
+  - [x] Exercise 10-10: Common Words
+- [x] <b>Storing Data</b>
+  - [x] Using json.dump() and json.load()
+  - [x] Saving and Reading User-Generated Data
+  - [ ] Refactoring  👈
   - [ ] Exercise 10-11: Favorite Number
   - [ ] Exercise 10-12: Favorite Number Remembered
   - [ ] Exercise 10-13: Verify User
