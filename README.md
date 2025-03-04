@@ -393,14 +393,14 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Exercise 10-3: Guest
   - [x] Exercise 10-4: Guest Book
   - [x] Exercise 10-5: Programming Poll
-- [ ] <b>Exceptions</b> 👈
-  - [ ] Handling the ZeroDivisionError Exception
-  - [ ] Using try-except Blocks
-  - [ ] Using Exceptions to Prevent Crashes
-  - [ ] The else Block
-  - [ ] Handling the FileNotFoundError Exception
-  - [ ] Analyzing Text
-  - [ ] Working with Multiple Files
+- [x] <b>Exceptions</b>
+  - [x] Handling the ZeroDivisionError Exception
+  - [x] Using try-except Blocks
+  - [x] Using Exceptions to Prevent Crashes
+  - [x] The else Block
+  - [x] Handling the FileNotFoundError Exception
+  - [x] Analyzing Text
+  - [ ] Working with Multiple Files 👈
   - [ ] Failing Silently
   - [ ] Deciding Which Errors to Report
   - [ ] Exercise 10-6: Addition
@@ -783,10 +783,13 @@ Here I will leave all the resources I use during this project.
 - [List of Python Built-in Types](https://docs.python.org/3/library/stdtypes.html)
 - [The Python Standard Library](https://docs.python.org/3/library/index.html)
 - [Python Module of the Week](https://pymotw.com/3/)
+- [Project Gutenberg](http://gutenberg.org/): Project Gutenberg maintains a collection of literary works that are
+available in the public domain
 
 ## Learned
 What I have learned reading this book.
-- Better understanding of GitHub.
+- The syntax and basics of Python.
+- Better understanding of Git and GitHub.
 - How to set up and use PyCharm.
 - How to set up and use Jupyter Notebooks.
 - All the syntax and modifiers of the .md files.
