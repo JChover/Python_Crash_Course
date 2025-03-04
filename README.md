@@ -383,17 +383,17 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Making a List of Lines from a File
   - [x] Working with a File’s Contents
   - [x] Large Files: One Million Digits
-  - [ ] Is Your Birthday Contained in Pi? 👈
-  - [ ] Exercise 10-1: Learning Python
-  - [ ] Exercise 10-2: Learning C
-- [ ] <b>Writing to a File</b>
-  - [ ] Writing to an Empty File
-  - [ ] Writing Multiple Lines
-  - [ ] Appending to a File
-  - [ ] Exercise 10-3: Guest
-  - [ ] Exercise 10-4: Guest Book
-  - [ ] Exercise 10-5: Programming Poll
-- [ ] <b>Exceptions</b>
+  - [x] Is Your Birthday Contained in Pi?
+  - [x] Exercise 10-1: Learning Python
+  - [x] Exercise 10-2: Learning C
+- [x] <b>Writing to a File</b>
+  - [x] Writing to an Empty File
+  - [x] Writing Multiple Lines
+  - [x] Appending to a File
+  - [x] Exercise 10-3: Guest
+  - [x] Exercise 10-4: Guest Book
+  - [x] Exercise 10-5: Programming Poll
+- [ ] <b>Exceptions</b> 👈
   - [ ] Handling the ZeroDivisionError Exception
   - [ ] Using try-except Blocks
   - [ ] Using Exceptions to Prevent Crashes

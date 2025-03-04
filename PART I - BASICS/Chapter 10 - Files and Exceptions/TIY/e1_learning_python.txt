@@ -1,0 +1,5 @@
+In Python you can use Variables.
+In Python you can create Lists.
+In Python you can build If Statements.
+In Python you can asemble Dictionaries.
+In Python you can read Files.
