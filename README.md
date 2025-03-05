@@ -413,7 +413,7 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Saving and Reading User-Generated Data
   - [x] Refactoring
   - [x] Exercise 10-11: Favorite Number
-  - [ ] Exercise 10-12: Favorite Number Remembered
+  - [x] Exercise 10-12: Favorite Number Remembered
   - [ ] Exercise 10-13: Verify User
 - [x] <b>Summary</b>
 </details>
