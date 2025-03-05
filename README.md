@@ -373,8 +373,8 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Summary</b>
 </details>
 
-<details open>
-<summary><b>Chapter 10 - Files and Exceptions</b></summary>
+<details>
+<summary><b>Chapter 10 - Files and Exceptions</b> ✔️</summary>
 
 - [x] <b>Reading from a File</b>
   - [x] Reading an Entire File
@@ -411,17 +411,17 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Storing Data</b>
   - [x] Using json.dump() and json.load()
   - [x] Saving and Reading User-Generated Data
-  - [ ] Refactoring  👈
-  - [ ] Exercise 10-11: Favorite Number
+  - [x] Refactoring
+  - [x] Exercise 10-11: Favorite Number
   - [ ] Exercise 10-12: Favorite Number Remembered
   - [ ] Exercise 10-13: Verify User
-- [ ] <b>Summary</b>
+- [x] <b>Summary</b>
 </details>
 
-<details>
+<details open>
 <summary><b>Chapter 11 - Testing Your Code</b></summary>
 
-- [ ] <b>Testing a Function</b>
+- [ ] <b>Testing a Function</b>  👈
   - [ ] Unit Tests and Test Cases
   - [ ] A Passing Test
   - [ ] A Failing Test
