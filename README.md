@@ -414,17 +414,16 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Refactoring
   - [x] Exercise 10-11: Favorite Number
   - [x] Exercise 10-12: Favorite Number Remembered
-  - [ ] Exercise 10-13: Verify User
 - [x] <b>Summary</b>
 </details>
 
 <details open>
 <summary><b>Chapter 11 - Testing Your Code</b></summary>
 
-- [ ] <b>Testing a Function</b>  👈
-  - [ ] Unit Tests and Test Cases
-  - [ ] A Passing Test
-  - [ ] A Failing Test
+- [x] <b>Testing a Function</b>
+  - [x] Unit Tests and Test Cases
+  - [x] A Passing Test
+  - [ ] A Failing Test  👈
   - [ ] Responding to a Failed Test
   - [ ] Adding New Tests
   - [ ] Exercise 11-1: City, Country
