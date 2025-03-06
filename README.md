@@ -423,11 +423,11 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Testing a Function</b>
   - [x] Unit Tests and Test Cases
   - [x] A Passing Test
-  - [ ] A Failing Test  👈
-  - [ ] Responding to a Failed Test
-  - [ ] Adding New Tests
-  - [ ] Exercise 11-1: City, Country
-  - [ ] Exercise 11-2: Population
+  - [x] A Failing Test
+  - [x] Responding to a Failed Test
+  - [x] Adding New Tests
+  - [x] Exercise 11-1: City, Country
+  - [ ] Exercise 11-2: Population  👈
 - [ ] <b>Testing a Class</b>
   - [ ] A Variety of Assert Methods
   - [ ] A Class to Test
