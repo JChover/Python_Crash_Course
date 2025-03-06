@@ -1,6 +1,6 @@
-# City, Country - e01_test_cities.py
+# 11-1 City, Country - e01_test_cities.py
 import unittest
-from e02_city_functions import get_formatted_places
+from e01_city_functions import get_formatted_places
 
 class NamesTestCase(unittest.TestCase):
     """Test for name_function_pass.py"""

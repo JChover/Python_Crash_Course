@@ -417,8 +417,8 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Summary</b>
 </details>
 
-<details open>
-<summary><b>Chapter 11 - Testing Your Code</b></summary>
+<details>
+<summary><b>Chapter 11 - Testing Your Code</b> ✔️</summary>
 
 - [x] <b>Testing a Function</b>
   - [x] Unit Tests and Test Cases
@@ -427,24 +427,24 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Responding to a Failed Test
   - [x] Adding New Tests
   - [x] Exercise 11-1: City, Country
-  - [ ] Exercise 11-2: Population  👈
-- [ ] <b>Testing a Class</b>
-  - [ ] A Variety of Assert Methods
-  - [ ] A Class to Test
-  - [ ] Testing the AnonymousSurvey Class
-  - [ ] The setUp() Method
-  - [ ] Exercise 11-3: Employee
-- [ ] <b>Summary</b>
+  - [x] Exercise 11-2: Population 
+- [x] <b>Testing a Class</b>
+  - [x] A Variety of Assert Methods
+  - [x] A Class to Test
+  - [x] Testing the AnonymousSurvey Class
+  - [x] The setUp() Method
+  - [x] Exercise 11-3: Employee
+- [x] <b>Summary</b>
 </details>
 
 ### Part II: Projects
 
 #### Project 1: Alien Invasion
 
-<details>
+<details open>
 <summary><b>Chapter 12 - A Ship that Fires Bullets</b></summary>
 
-- [ ] <b>Planning Your Project</b>
+- [ ] <b>Planning Your Project</b>  👈
 - [ ] <b>Installing Pygame</b>
 - [ ] <b>Starting the Game Project</b>
   - [ ] Creating a Pygame Window and Responding to User Input
