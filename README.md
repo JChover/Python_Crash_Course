@@ -489,12 +489,12 @@ Here I will keep track of all the exercises and contents learned while reading t
 <details open>
 <summary><b>Chapter 13 - ALIENS!</b></summary>
 
-- [ ] <b>Reviewing the Project</b> 👈
-- [ ] <b>Creating the First Alien</b>
-  - [ ] Creating the Alien Class
-  - [ ] Creating an Instance of the Alien
-- [ ] <b>Building the Alien Fleet</b>
-  - [ ] Determining How Many Aliens Fit in a Row
+- [x] <b>Reviewing the Project</b>
+- [x] <b>Creating the First Alien</b>
+  - [x] Creating the Alien Class
+  - [x] Creating an Instance of the Alien
+- [x] <b>Building the Alien Fleet</b>
+  - [ ] Determining How Many Aliens Fit in a Row 👈
   - [ ] Creating a Row of Aliens
   - [ ] Refactoring _create_fleet()
   - [ ] Adding Rows
