@@ -444,13 +444,13 @@ Here I will keep track of all the exercises and contents learned while reading t
 <details open>
 <summary><b>Chapter 12 - A Ship that Fires Bullets</b></summary>
 
-- [ ] <b>Planning Your Project</b>  👈
-- [ ] <b>Installing Pygame</b>
-- [ ] <b>Starting the Game Project</b>
-  - [ ] Creating a Pygame Window and Responding to User Input
-  - [ ] Setting the Background Color
-  - [ ] Creating a Setting Class
-- [ ] <b>Adding the Ship Image</b>
+- [x] <b>Planning Your Project</b>
+- [x] <b>Installing Pygame</b>
+- [x] <b>Starting the Game Project</b>
+  - [x] Creating a Pygame Window and Responding to User Input
+  - [x] Setting the Background Color
+  - [x] Creating a Setting Class
+- [ ] <b>Adding the Ship Image</b>  👈
     - [ ] Creating the Ship Class
     - [ ] Drawing the Ship to the Screen
 - [ ] <b>Refactoring: The _check_events() and _update_screen() Methods</b>
