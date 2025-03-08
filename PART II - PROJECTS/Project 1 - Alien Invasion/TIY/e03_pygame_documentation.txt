@@ -1,0 +1,2 @@
+The Pygame home page is at https://www.pygame.org/
+The home page for the documentation is at https://www.pygame.org/docs/

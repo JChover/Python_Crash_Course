@@ -450,30 +450,30 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Creating a Pygame Window and Responding to User Input
   - [x] Setting the Background Color
   - [x] Creating a Setting Class
-- [ ] <b>Adding the Ship Image</b>  👈
-    - [ ] Creating the Ship Class
-    - [ ] Drawing the Ship to the Screen
-- [ ] <b>Refactoring: The _check_events() and _update_screen() Methods</b>
-  - [ ] The _check_events() Method
-  - [ ] The _update_screen() Method
-  - [ ] Exercise 12-1: Blue Sky
-  - [ ] Exercise 12-2: Game Character
-- [ ] <b>Piloting the Ship</b>
-  - [ ] Responding to a Keypress
-  - [ ] Allowing Continuous Movement
-  - [ ] Moving Both Left and Right
-  - [ ] Adjusting the Ship's Speed
-  - [ ] Limiting the Ship's Range
-  - [ ] Refactoring _check_events()
-  - [ ] Pressing Q to Quit
-  - [ ] Running the Game in Fullscreen Mode
-- [ ] <b>A Quick Recap</b>
-  - [ ] alien_invasion.py
-  - [ ] settings.py
-  - [ ] ship.py
-  - [ ] Exercise 12-3: Pygame Documentation
-  - [ ] Exercise 12-4: Rocket
-  - [ ] Exercise 12-5: Keys
+- [x] <b>Adding the Ship Image</b>  👈
+    - [x] Creating the Ship Class
+    - [x] Drawing the Ship to the Screen
+- [x] <b>Refactoring: The _check_events() and _update_screen() Methods</b>
+  - [x] The _check_events() Method
+  - [x] The _update_screen() Method
+  - [x] Exercise 12-1: Blue Sky
+  - [x] Exercise 12-2: Game Character
+- [x] <b>Piloting the Ship</b>
+  - [x] Responding to a Keypress
+  - [x] Allowing Continuous Movement
+  - [x] Moving Both Left and Right
+  - [x] Adjusting the Ship's Speed
+  - [x] Limiting the Ship's Range
+  - [x] Refactoring _check_events()
+  - [x] Pressing Q to Quit
+  - [x] Running the Game in Fullscreen Mode
+- [x] <b>A Quick Recap</b>
+  - [x] alien_invasion.py
+  - [x] settings.py
+  - [x] ship.py
+  - [x] Exercise 12-3: Pygame Documentation
+  - [x] Exercise 12-4: Rocket
+  - [x] Exercise 12-5: Keys
 - [ ] <b>Shooting Bullets</b>
   - [ ] Adding the Bullet Settings
   - [ ] Creating the Bullet Class
