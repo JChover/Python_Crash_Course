@@ -441,8 +441,8 @@ Here I will keep track of all the exercises and contents learned while reading t
 
 #### Project 1: Alien Invasion
 
-<details open>
-<summary><b>Chapter 12 - A Ship that Fires Bullets</b></summary>
+<details>
+<summary><b>Chapter 12 - A Ship that Fires Bullets</b> ✔️</summary>
 
 - [x] <b>Planning Your Project</b>
 - [x] <b>Installing Pygame</b>
@@ -450,7 +450,7 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Creating a Pygame Window and Responding to User Input
   - [x] Setting the Background Color
   - [x] Creating a Setting Class
-- [x] <b>Adding the Ship Image</b>  👈
+- [x] <b>Adding the Ship Image</b> 
     - [x] Creating the Ship Class
     - [x] Drawing the Ship to the Screen
 - [x] <b>Refactoring: The _check_events() and _update_screen() Methods</b>
@@ -474,22 +474,22 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Exercise 12-3: Pygame Documentation
   - [x] Exercise 12-4: Rocket
   - [x] Exercise 12-5: Keys
-- [ ] <b>Shooting Bullets</b>
-  - [ ] Adding the Bullet Settings
-  - [ ] Creating the Bullet Class
-  - [ ] Storing the Bullets in a Group
-  - [ ] Firing Bullets
-  - [ ] Deleting Old Bullets
-  - [ ] Limiting the Number of Bullets
-  - [ ] Creating the _update_bullets() Method
-  - [ ] Exercise 12-6: Sideways Shooter
-- [ ] <b>Summary</b>
+- [x] <b>Shooting Bullets</b>
+  - [x] Adding the Bullet Settings
+  - [x] Creating the Bullet Class
+  - [x] Storing the Bullets in a Group
+  - [x] Firing Bullets
+  - [x] Deleting Old Bullets
+  - [x] Limiting the Number of Bullets
+  - [x] Creating the _update_bullets() Method
+  - [x] Exercise 12-6: Sideways Shooter
+- [x] <b>Summary</b>
 </details>
 
-<details>
+<details open>
 <summary><b>Chapter 13 - ALIENS!</b></summary>
 
-- [ ] <b>Reviewing the Project</b>
+- [ ] <b>Reviewing the Project</b> 👈
 - [ ] <b>Creating the First Alien</b>
   - [ ] Creating the Alien Class
   - [ ] Creating an Instance of the Alien
