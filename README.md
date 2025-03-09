@@ -486,7 +486,7 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Summary</b>
 </details>
 
-<details open>
+<details>
 <summary><b>Chapter 13 - ALIENS!</b></summary>
 
 - [x] <b>Reviewing the Project</b>
@@ -513,21 +513,21 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Repopulating the Fleet
   - [x] Speeding Up the Bullets
   - [x] Refactoring _update_bullets()
-  - [ ] Exercise 13-5: Sideways Shooter Part 2 👈
-- [ ] <b>Ending the Game</b>
-  - [ ] Detecting Alien and Ship Collisions
-  - [ ] Responding to Alien and Ship Collisions
-  - [ ] Aliens that Reach the Bottom of the Screen
-  - [ ] Game Over!
-  - [ ] Identifying When Parts of the Game Should Run
-  - [ ] Exercise 13-6: Game Over
-- [ ] <b>Summary</b>
+  - [x] Exercise 13-5: Sideways Shooter Part 2
+- [x] <b>Ending the Game</b>
+  - [x] Detecting Alien and Ship Collisions
+  - [x] Responding to Alien and Ship Collisions
+  - [x] Aliens that Reach the Bottom of the Screen
+  - [x] Game Over!
+  - [x] Identifying When Parts of the Game Should Run
+  - [x] Exercise 13-6: Game Over
+- [x] <b>Summary</b>
 </details>
 
-<details>
+<details open>
 <summary><b>Chapter 14 - Scoring</b></summary>
 
-- [ ] <b>Adding the Play Button</b>
+- [ ] <b>Adding the Play Button</b> 👈
   - [ ] Creating a Button Class
   - [ ] Drawing the Button on the Screen
   - [ ] Starting the Game
