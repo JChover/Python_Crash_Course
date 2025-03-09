@@ -1,6 +1,7 @@
 import sys
 import pygame
 from e01_star import Star
+from random import randint
 
 class StarInvasion:
     """Overall class to manage game assets and behavior."""
@@ -12,7 +13,7 @@ class StarInvasion:
         self.screen_width = 1200
         self.screen_height = 800
         self.screen = pygame.display.set_mode((self.screen_width, self.screen_height))
-        pygame.display.set_caption('Stars')
+        pygame.display.set_caption('Better Stars')
         self.bg_color = (0, 150, 250)
 
 
@@ -52,9 +53,13 @@ class StarInvasion:
         star = Star(self)
         star_width, star_height = star.rect.size
         star.x = star_width + 2 * star_width * star_number
-        star.rect.x = star.x
-        star.rect.y = star.rect.height + 2 * star.rect.height * row_number
+        star.rect.x = star.x + self.rn()
+        star.rect.y = (star.rect.height + 2 * star.rect.height * row_number) + self.rn()
         self.stars.add(star)
+
+    def rn(self):
+        random_number = randint(-25, 25)
+        return random_number
 
     def _update_screen(self):
         """Update images on the screen, and flip to the new screen."""

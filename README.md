@@ -494,26 +494,26 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Creating the Alien Class
   - [x] Creating an Instance of the Alien
 - [x] <b>Building the Alien Fleet</b>
-  - [ ] Determining How Many Aliens Fit in a Row 👈
-  - [ ] Creating a Row of Aliens
-  - [ ] Refactoring _create_fleet()
-  - [ ] Adding Rows
-  - [ ] Exercise 13-1: Stars
-  - [ ] Exercise 13-2: Better Stars
-- [ ] <b>Making the Fleet Move</b>
-  - [ ] Moving the Aliens Right
-  - [ ] Creating Settings for Fleet Direction
-  - [ ] Checking Whether an Alien Has Hit the Edge
-  - [ ] Dropping the Fleet and Changing Direction
-  - [ ] Exercise 13-3: Raindrops 
-  - [ ] Exercise 13-4: Steady Rain
-- [ ] <b>Shooting Aliens</b>
-  - [ ] Detecting Bullet Collisions
-  - [ ] Making Larger Bullets for Testing
-  - [ ] Repopulating the Fleet
-  - [ ] Speeding Up the Bullets
-  - [ ] Refactoring _update_bullets()
-  - [ ] Exercise 13-5: Sideways Shooter Part 2
+  - [x] Determining How Many Aliens Fit in a Row
+  - [x] Creating a Row of Aliens
+  - [x] Refactoring _create_fleet()
+  - [x] Adding Rows
+  - [x] Exercise 13-1: Stars
+  - [x] Exercise 13-2: Better Stars
+- [x] <b>Making the Fleet Move</b>
+  - [x] Moving the Aliens Right
+  - [x] Creating Settings for Fleet Direction
+  - [x] Checking Whether an Alien Has Hit the Edge
+  - [x] Dropping the Fleet and Changing Direction
+  - [x] Exercise 13-3: Raindrops 
+  - [x] Exercise 13-4: Steady Rain
+- [x] <b>Shooting Aliens</b>
+  - [x] Detecting Bullet Collisions
+  - [x] Making Larger Bullets for Testing
+  - [x] Repopulating the Fleet
+  - [x] Speeding Up the Bullets
+  - [x] Refactoring _update_bullets()
+  - [ ] Exercise 13-5: Sideways Shooter Part 2 👈
 - [ ] <b>Ending the Game</b>
   - [ ] Detecting Alien and Ship Collisions
   - [ ] Responding to Alien and Ship Collisions
