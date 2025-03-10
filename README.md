@@ -487,7 +487,7 @@ Here I will keep track of all the exercises and contents learned while reading t
 </details>
 
 <details>
-<summary><b>Chapter 13 - ALIENS!</b></summary>
+<summary><b>Chapter 13 - ALIENS!</b> ✔️</summary>
 
 - [x] <b>Reviewing the Project</b>
 - [x] <b>Creating the First Alien</b>
@@ -527,14 +527,14 @@ Here I will keep track of all the exercises and contents learned while reading t
 <details open>
 <summary><b>Chapter 14 - Scoring</b></summary>
 
-- [ ] <b>Adding the Play Button</b> 👈
-  - [ ] Creating a Button Class
-  - [ ] Drawing the Button on the Screen
-  - [ ] Starting the Game
-  - [ ] Resetting the Game
-  - [ ] Deactivating the Play Button
-  - [ ] Hiding the Mouse Cursor
-  - [ ] Exercise 14-1: Press P to Play
+- [x] <b>Adding the Play Button</b>
+  - [x] Creating a Button Class
+  - [x] Drawing the Button on the Screen
+  - [x] Starting the Game
+  - [x] Resetting the Game
+  - [x] Deactivating the Play Button
+  - [x] Hiding the Mouse Cursor
+  - [ ] Exercise 14-1: Press P to Play 👈
   - [ ] Exercise 14-2: Target Practice
 - [ ] <b>Leveling Up</b>
   - [ ] Modifying the Speed Settings
