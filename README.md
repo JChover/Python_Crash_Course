@@ -534,10 +534,10 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Resetting the Game
   - [x] Deactivating the Play Button
   - [x] Hiding the Mouse Cursor
-  - [ ] Exercise 14-1: Press P to Play 👈
-  - [ ] Exercise 14-2: Target Practice
-- [ ] <b>Leveling Up</b>
-  - [ ] Modifying the Speed Settings
+  - [x] Exercise 14-1: Press P to Play
+  - [x] Exercise 14-2: Target Practice
+- [x] <b>Leveling Up</b>
+  - [ ] Modifying the Speed Settings 👈
   - [ ] Resetting the Speed
   - [ ] Exercise 14-3: Challenging Target Practice
   - [ ] Exercise 14-4: Difficulty Levels
