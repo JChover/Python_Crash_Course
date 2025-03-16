@@ -439,7 +439,7 @@ Here I will keep track of all the exercises and contents learned while reading t
 
 ### Part II: Projects
 
-#### Project 1: Alien Invasion
+#### Project 1: Alien Invasion ☑️
 
 <details>
 <summary><b>Chapter 12 - A Ship that Fires Bullets</b> ✔️</summary>
@@ -524,8 +524,8 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Summary</b>
 </details>
 
-<details open>
-<summary><b>Chapter 14 - Scoring</b></summary>
+<details>
+<summary><b>Chapter 14 - Scoring</b> ✔️</summary>
 
 - [x] <b>Adding the Play Button</b>
   - [x] Creating a Button Class
@@ -541,30 +541,30 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Resetting the Speed
   - [x] Exercise 14-3: Challenging Target Practice
   - [x] Exercise 14-4: Difficulty Levels
-- [ ] <b>Scoring</b> 👈
-  - [ ] Displaying the Score
-  - [ ] Making a Scoreboard
-  - [ ] Updating the Score as Aliens Are Shot Down
-  - [ ] Resetting the Score
-  - [ ] Making sure to Score All Hits
-  - [ ] Increasing Point Values
-  - [ ] Rounding the Score
-  - [ ] High Scores
-  - [ ] Displaying the Level
-  - [ ] Displaying the Number of ships
-  - [ ] Exercise 14-5: All-Time High Score
-  - [ ] Exercise 14-6: Refactoring
-  - [ ] Exercise 14-7: Expanding the Game
-  - [ ] Exercise 14-8: Sideways Shooter, Final Version
-- [ ] <b>Summary</b>
+- [x] <b>Scoring</b>
+  - [x] Displaying the Score
+  - [x] Making a Scoreboard
+  - [x] Updating the Score as Aliens Are Shot Down
+  - [x] Resetting the Score
+  - [x] Making sure to Score All Hits
+  - [x] Increasing Point Values
+  - [x] Rounding the Score
+  - [x] High Scores
+  - [x] Displaying the Level
+  - [x] Displaying the Number of ships
+  - [x] Exercise 14-5: All-Time High Score
+  - [x] Exercise 14-6: Refactoring
+  - [x] Exercise 14-7: Expanding the Game
+  - [x] Exercise 14-8: Sideways Shooter, Final Version
+- [x] <b>Summary</b>
 </details>
 
 #### Project 2: Data Visualization
 
-<details>
+<details open>
 <summary><b>Chapter 15 - Generating Data</b></summary>
 
-- [ ] <b>Installing Matplotlib</b>
+- [ ] <b>Installing Matplotlib</b> 👈
 - [ ] <b>Plotting a Simple Line Graph</b>
   - [ ] Changing the Label Type and Line Thickness
   - [ ] Correcting the Plot

@@ -1,0 +1,2 @@
+Created a separate folder called "Alien Invasion Sideways" where the exercise can be found.
+Updated the game up to the same point as the normal version, including the sound effects from last exercise.

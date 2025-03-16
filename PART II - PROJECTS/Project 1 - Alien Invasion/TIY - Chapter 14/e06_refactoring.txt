@@ -1,0 +1,11 @@
+Refactored all the methods and classes requested by the exercise:
+
+1 - Move some of the code in _check_bullet_alien_collisions(), which starts a new level
+when the fleet of aliens has been destroyed, to a function called start_new
+_level().
+
+2 - Move the four separate method calls in the __init__() method
+in Scoreboard to a method called prep_images() to shorten __init__().
+
+3 - The prep_images() method could also help simplify _check_play_button() or start
+_game() if you’ve already refactored _check_play_button().

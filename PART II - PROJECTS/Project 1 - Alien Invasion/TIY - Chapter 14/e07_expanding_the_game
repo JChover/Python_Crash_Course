@@ -1,0 +1,5 @@
+Added the following sound effects to the game:
+
+- Shooting: Added laser sound
+- Collision: Every hit got an explosion sound
+- Game Over: Each time a ship is hit a game over sound will trigger
