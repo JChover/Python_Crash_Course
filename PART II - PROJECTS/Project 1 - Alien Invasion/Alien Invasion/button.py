@@ -1,20 +1,51 @@
 import pygame.font
 
 class Button:
-    def __init__(self, ai_game, msg):
+    def __init__(self, ai_game, msg, pos):
         """Initialize the button attribute."""
         self.screen = ai_game.screen
         self.screen_rect = self.screen.get_rect()
 
         # Set the dimensions and properties of the button
         self.width, self.height = 200, 50
-        self.button_color = (204, 0, 0)
         self.text_color = (230, 230, 230)
         self.font = pygame.font.SysFont(None, 32)
 
-        # Build the button's rect object and center it
-        self.rect = pygame.Rect(0, 0, self.width, self.height)
-        self.rect.center = self.screen_rect.center
+        if pos == "center":
+            # Build the button's rect object and center it
+            self.rect = pygame.Rect(0, 0, self.width, self.height)
+            self.rect.center = self.screen_rect.center
+            self.rect.y = self.rect.y - 18
+
+            self.button_color = (199, 178, 46)
+
+        elif pos == "right":
+            # Build the button's rect object and center right it
+            self.rect = pygame.Rect(0, 0, self.width, self.height)
+            self.rect.center = self.screen_rect.center
+            self.rect.x = self.rect.x + 270
+            self.rect.y = self.rect.y - 18
+
+            self.button_color = (199, 46, 46)
+
+        elif pos == "left":
+            # Build the button's rect object and center left it
+            self.rect = pygame.Rect(0, 0, self.width, self.height)
+            self.rect.center = self.screen_rect.center
+            self.rect.x = self.rect.x - 270
+            self.rect.y = self.rect.y - 18
+
+            self.button_color = (89, 194, 107)
+
+
+        elif pos == "top":
+            # Build the button's rect object and center top it
+            self.rect = pygame.Rect(0, 0, self.width, self.height)
+            self.rect.center = self.screen_rect.center
+            self.rect.y = self.rect.y - 140
+
+            self.button_color = (200, 200, 200)
+            self.text_color = (50, 50, 50)
 
         # The button message needs to be prepped only once.
         self._prep_msg(msg)

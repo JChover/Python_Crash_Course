@@ -537,11 +537,11 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Exercise 14-1: Press P to Play
   - [x] Exercise 14-2: Target Practice
 - [x] <b>Leveling Up</b>
-  - [ ] Modifying the Speed Settings 👈
-  - [ ] Resetting the Speed
-  - [ ] Exercise 14-3: Challenging Target Practice
-  - [ ] Exercise 14-4: Difficulty Levels
-- [ ] <b>Scoring</b>
+  - [x] Modifying the Speed Settings
+  - [x] Resetting the Speed
+  - [x] Exercise 14-3: Challenging Target Practice
+  - [x] Exercise 14-4: Difficulty Levels
+- [ ] <b>Scoring</b> 👈
   - [ ] Displaying the Score
   - [ ] Making a Scoreboard
   - [ ] Updating the Score as Aliens Are Shot Down
