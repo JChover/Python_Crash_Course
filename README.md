@@ -564,9 +564,9 @@ Here I will keep track of all the exercises and contents learned while reading t
 <details open>
 <summary><b>Chapter 15 - Generating Data</b></summary>
 
-- [ ] <b>Installing Matplotlib</b> 👈
-- [ ] <b>Plotting a Simple Line Graph</b>
-  - [ ] Changing the Label Type and Line Thickness
+- [x] <b>Installing Matplotlib</b>
+- [x] <b>Plotting a Simple Line Graph</b>
+  - [ ] Changing the Label Type and Line Thickness 👈
   - [ ] Correcting the Plot
   - [ ] Using Built-in Styles
   - [ ] Plotting and Styling Individual Points with scatter()
