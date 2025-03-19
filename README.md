@@ -566,35 +566,35 @@ Here I will keep track of all the exercises and contents learned while reading t
 
 - [x] <b>Installing Matplotlib</b>
 - [x] <b>Plotting a Simple Line Graph</b>
-  - [ ] Changing the Label Type and Line Thickness 👈
-  - [ ] Correcting the Plot
-  - [ ] Using Built-in Styles
-  - [ ] Plotting and Styling Individual Points with scatter()
-  - [ ] Plotting a Series of Points with scatter()
-  - [ ] Calculating Data Automatically
-  - [ ] Defining Custom Colors
-  - [ ] Using a Colormap
-  - [ ] Saving Your Plots Automatically
-  - [ ] Exercise 15-1: Cubes
-  - [ ] Exercise 15-2: Colored Cubes
-- [ ] <b>Random Walks</b>
-  - [ ] Creating the RandomWalk() Class
-  - [ ] Choosing Directions
-  - [ ] Plotting the Random Walk
-  - [ ] Generating Multiple Random Walks
-  - [ ] Styling the Walks
-  - [ ] Exercise 15-3: Molecular Motion
-  - [ ] Exercise 15-4: Modified Random Walks
-  - [ ] Exercise 15-5: Refactoring
-- [ ] <b>Rolling Dice with Plotly</b>
-  - [ ] Installing Plotly
-  - [ ] Creating the Die Class
-  - [ ] Rolling the Die
-  - [ ] Analyzing the Results
-  - [ ] Making a Histogram
-  - [ ] Rolling two Dice
-  - [ ] Rolling Dice of Different Sizes
-  - [ ] Exercise 15-6: Two D8s
+  - [x] Changing the Label Type and Line Thickness
+  - [x] Correcting the Plot
+  - [x] Using Built-in Styles
+  - [x] Plotting and Styling Individual Points with scatter()
+  - [x] Plotting a Series of Points with scatter()
+  - [x] Calculating Data Automatically
+  - [x] Defining Custom Colors
+  - [x] Using a Colormap
+  - [x] Saving Your Plots Automatically
+  - [x] Exercise 15-1: Cubes
+  - [x] Exercise 15-2: Colored Cubes
+- [x] <b>Random Walks</b>
+  - [x] Creating the RandomWalk() Class
+  - [x] Choosing Directions
+  - [x] Plotting the Random Walk
+  - [x] Generating Multiple Random Walks
+  - [x] Styling the Walks
+  - [x] Exercise 15-3: Molecular Motion
+  - [x] Exercise 15-4: Modified Random Walks
+  - [x] Exercise 15-5: Refactoring
+- [x] <b>Rolling Dice with Plotly</b>
+  - [x] Installing Plotly
+  - [x] Creating the Die Class
+  - [x] Rolling the Die
+  - [x] Analyzing the Results
+  - [x] Making a Histogram
+  - [x] Rolling two Dice
+  - [x] Rolling Dice of Different Sizes
+  - [ ] Exercise 15-6: Two D8s 👈
   - [ ] Exercise 15-7: Three Dice
   - [ ] Exercise 15-8: Multiplication
   - [ ] Exercise 15-9: Die Comprehensions
