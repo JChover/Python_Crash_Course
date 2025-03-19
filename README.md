@@ -561,8 +561,8 @@ Here I will keep track of all the exercises and contents learned while reading t
 
 #### Project 2: Data Visualization
 
-<details open>
-<summary><b>Chapter 15 - Generating Data</b></summary>
+<details>
+<summary><b>Chapter 15 - Generating Data</b> ✔️</summary>
 
 - [x] <b>Installing Matplotlib</b>
 - [x] <b>Plotting a Simple Line Graph</b>
@@ -594,18 +594,18 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Making a Histogram
   - [x] Rolling two Dice
   - [x] Rolling Dice of Different Sizes
-  - [ ] Exercise 15-6: Two D8s 👈
-  - [ ] Exercise 15-7: Three Dice
-  - [ ] Exercise 15-8: Multiplication
-  - [ ] Exercise 15-9: Die Comprehensions
-  - [ ] Exercise 15-10: Practicing with Both Libraries
-- [ ] <b>Summary</b>
+  - [x] Exercise 15-6: Two D8s
+  - [x] Exercise 15-7: Three Dice
+  - [x] Exercise 15-8: Multiplication
+  - [x] Exercise 15-9: Die Comprehensions
+  - [x] Exercise 15-10: Practicing with Both Libraries
+- [x] <b>Summary</b>
 </details>
 
-<details>
+<details open>
 <summary><b>Chapter 16 - Downloading Data</b></summary>
 
-- [ ] <b>The CSV File Format</b>
+- [ ] <b>The CSV File Format</b> 👈
   - [ ] Parsing the CSV File Headers
   - [ ] Printing the Header and Their Positions
   - [ ] Extracting and Reading Data
