@@ -785,15 +785,18 @@ Here I will leave all the resources I use during this project.
 
 ## Learned
 What I have learned reading this book.
-- The syntax and basics of Python.
-- Better understanding of Git and GitHub.
-- How to set up and use PyCharm.
-- How to set up and use Jupyter Notebooks.
-- All the syntax and modifiers of the Markdown (.md) files.
-- Basic understanding of Python Built-in libraries.
-- Basic understanding of Pygame library.
-- Basic understanding of MatPlotLib and Plotly libraries.
-- Basic understanding of Django.
+- The syntax and basics of Python. (Chapters 1:9)
+- Better understanding of Git and GitHub. (All)
+- How to set up and use PyCharm. (All)
+- How to set up and use Jupyter Notebooks. (All)
+- All the syntax and modifiers of the Markdown (.md) files. (All)
+- How to manage Files: .txt and .json. (Chapter 10)
+- How to manage Exceptions. (Chapter 10)
+- How to manage and create Test cases. (Chapter 11)
+- Basic understanding of Python Built-in libraries. (All)
+- Basic understanding of Pygame library. (Project 1)
+- Basic understanding of MatPlotLib and Plotly libraries. (Project 2)
+- Basic understanding of Django. (Project 3)
 
 ## Conclusions
 What are my conclusion after reading this book.
