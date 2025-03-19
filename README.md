@@ -782,8 +782,6 @@ Here I will leave all the resources I use during this project.
 - [List of Python Built-in Types](https://docs.python.org/3/library/stdtypes.html)
 - [The Python Standard Library](https://docs.python.org/3/library/index.html)
 - [Python Module of the Week](https://pymotw.com/3/)
-- [Project Gutenberg](http://gutenberg.org/): Project Gutenberg maintains a collection of literary works that are
-available in the public domain
 
 ## Learned
 What I have learned reading this book.
@@ -791,7 +789,11 @@ What I have learned reading this book.
 - Better understanding of Git and GitHub.
 - How to set up and use PyCharm.
 - How to set up and use Jupyter Notebooks.
-- All the syntax and modifiers of the .md files.
+- All the syntax and modifiers of the Markdown (.md) files.
+- Basic understanding of Python Built-in libraries.
+- Basic understanding of Pygame library.
+- Basic understanding of MatPlotLib and Plotly libraries.
+- Basic understanding of Django.
 
 ## Conclusions
 What are my conclusion after reading this book.
