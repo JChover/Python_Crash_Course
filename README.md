@@ -617,14 +617,14 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Shading an Area in the Chart
   - [x] Error Checking
   - [x] Downloading Your Own Data
-  - [ ] Exercise 16-1: Sitka Rainfall 👈
-  - [ ] Exercise 16-2: Sitka–Death Valley Comparison
-  - [ ] Exercise 16-3: San Francisco
-  - [ ] Exercise 16-4: Automatic Indexes 
-  - [ ] Exercise 16-5: Explore
-- [ ] <b>Mapping Global Data Sets: JSON Format</b>
-  - [ ] Downloading Earthquake Data
-  - [ ] Examining JSON Data
+  - [x] Exercise 16-1: Sitka Rainfall
+  - [x] Exercise 16-2: Sitka–Death Valley Comparison
+  - [x] Exercise 16-3: San Francisco
+  - [x] Exercise 16-4: Automatic Indexes 
+  - [x] Exercise 16-5: Explore
+- [x] <b>Mapping Global Data Sets: JSON Format</b>
+  - [x] Downloading Earthquake Data
+  - [ ] Examining JSON Data 👈
   - [ ] Making a List of All Earthquake
   - [ ] Extracting Magnitudes
   - [ ] Extracting Location Data
