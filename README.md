@@ -605,19 +605,19 @@ Here I will keep track of all the exercises and contents learned while reading t
 <details open>
 <summary><b>Chapter 16 - Downloading Data</b></summary>
 
-- [ ] <b>The CSV File Format</b> 👈
-  - [ ] Parsing the CSV File Headers
-  - [ ] Printing the Header and Their Positions
-  - [ ] Extracting and Reading Data
-  - [ ] Plotting Data in a Temperature Chart
-  - [ ] The datetime Module
-  - [ ] Plotting Dates
-  - [ ] Plotting a Longer Timeframe
-  - [ ] Plotting a Second Data Series
-  - [ ] Shading an Area in the Chart
-  - [ ] Error Checking
-  - [ ] Downloading Your Own Data
-  - [ ] Exercise 16-1: Sitka Rainfall
+- [x] <b>The CSV File Format</b>
+  - [x] Parsing the CSV File Headers
+  - [x] Printing the Header and Their Positions
+  - [x] Extracting and Reading Data
+  - [x] Plotting Data in a Temperature Chart
+  - [x] The datetime Module
+  - [x] Plotting Dates
+  - [x] Plotting a Longer Timeframe
+  - [x] Plotting a Second Data Series
+  - [x] Shading an Area in the Chart
+  - [x] Error Checking
+  - [x] Downloading Your Own Data
+  - [ ] Exercise 16-1: Sitka Rainfall 👈
   - [ ] Exercise 16-2: Sitka–Death Valley Comparison
   - [ ] Exercise 16-3: San Francisco
   - [ ] Exercise 16-4: Automatic Indexes 
