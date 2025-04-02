@@ -624,11 +624,11 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Exercise 16-5: Explore
 - [x] <b>Mapping Global Data Sets: JSON Format</b>
   - [x] Downloading Earthquake Data
-  - [ ] Examining JSON Data 👈
-  - [ ] Making a List of All Earthquake
-  - [ ] Extracting Magnitudes
-  - [ ] Extracting Location Data
-  - [ ] Building a World Map
+  - [x] Examining JSON Data
+  - [x] Making a List of All Earthquake
+  - [x] Extracting Magnitudes
+  - [x] Extracting Location Data
+  - [ ] Building a World Map 👈
   - [ ] A Different Way of Specifying Chart Data
   - [ ] Customizing Marker Size
   - [ ] Customizing Marker Colors
