@@ -1,4 +1,4 @@
-# 15-01 Sitka Rainfall - e01_sitka_rainfall.py
+# 16-01 Sitka Rainfall - e01_sitka_rainfall.py
 import csv
 from datetime import datetime
 

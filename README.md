@@ -602,8 +602,8 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Summary</b>
 </details>
 
-<details open>
-<summary><b>Chapter 16 - Downloading Data</b></summary>
+<details>
+<summary><b>Chapter 16 - Downloading Data</b> ✔️</summary>
 
 - [x] <b>The CSV File Format</b>
   - [x] Parsing the CSV File Headers
@@ -632,19 +632,19 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] A Different Way of Specifying Chart Data
   - [x] Customizing Marker Size
   - [x] Customizing Marker Colors
-  - [ ] Other Colorscale 👈
-  - [ ] Adding Hover Text
-  - [ ] Exercise 16-6: Refactoring
-  - [ ] Exercise 16-7: Automated Title
-  - [ ] Exercise 16-8: Recent Earthquakes
-  - [ ] Exercise 16-9: World Fires
-- [ ] <b>Summary</b>
+  - [x] Other Colorscale
+  - [x] Adding Hover Text
+  - [x] Exercise 16-6: Refactoring
+  - [x] Exercise 16-7: Automated Title
+  - [x] Exercise 16-8: Recent Earthquakes
+  - [x] Exercise 16-9: World Fires
+- [x] <b>Summary</b>
 </details>
 
-<details>
+<details open>
 <summary><b>Chapter 17 - Working with APIs</b></summary>
 
-- [ ] <b>Using a Web API</b>
+- [ ] <b>Using a Web API</b> 👈
   - [ ] Git and GitHub
   - [ ] Requesting Data Using an API Call
   - [ ] Installing Requests

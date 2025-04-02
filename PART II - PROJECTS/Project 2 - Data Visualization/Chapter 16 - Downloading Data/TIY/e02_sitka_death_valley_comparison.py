@@ -1,4 +1,4 @@
-# 15-02 Sitka-Death Valley Comparison - e02_sitka_death_valley_comparison.py
+# 16-02 Sitka-Death Valley Comparison - e02_sitka_death_valley_comparison.py
 import csv
 from datetime import datetime
 
