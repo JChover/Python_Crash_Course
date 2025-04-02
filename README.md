@@ -628,11 +628,11 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Making a List of All Earthquake
   - [x] Extracting Magnitudes
   - [x] Extracting Location Data
-  - [ ] Building a World Map 👈
-  - [ ] A Different Way of Specifying Chart Data
-  - [ ] Customizing Marker Size
-  - [ ] Customizing Marker Colors
-  - [ ] Other Colorscale
+  - [x] Building a World Map
+  - [x] A Different Way of Specifying Chart Data
+  - [x] Customizing Marker Size
+  - [x] Customizing Marker Colors
+  - [ ] Other Colorscale 👈
   - [ ] Adding Hover Text
   - [ ] Exercise 16-6: Refactoring
   - [ ] Exercise 16-7: Automated Title
