@@ -653,13 +653,13 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Summarizing the Top Repositories
   - [x] Monitoring API Rate Limits
 - [x] <b>Visualizing Repositories Using Plotly</b>
-  - [ ] Refining Plotly Charts 👈
-  - [ ] Adding Custom Tooltips
-  - [ ] Adding Clickable Links to Our Graph
-  - [ ] More About Plotly and the GitHub API
-- [ ] <b>The Hacker News API</b>
-  - [ ] Exercise 17-1: Other Languages
-  - [ ] Exercise 17-2: Active Discussions
+  - [x] Refining Plotly Charts
+  - [x] Adding Custom Tooltips
+  - [x] Adding Clickable Links to Our Graph
+  - [x] More About Plotly and the GitHub API
+- [x] <b>The Hacker News API</b>
+  - [x] Exercise 17-1: Other Languages
+  - [x] Exercise 17-2: Active Discussions 👈
   - [ ] Exercise 17-3: Testing python_repos.py
   - [ ] Exercise 17-4: Further Exploration
 - [ ] <b>Summary</b>
