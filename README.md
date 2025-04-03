@@ -644,12 +644,12 @@ Here I will keep track of all the exercises and contents learned while reading t
 <details open>
 <summary><b>Chapter 17 - Working with APIs</b></summary>
 
-- [ ] <b>Using a Web API</b> 👈
-  - [ ] Git and GitHub
-  - [ ] Requesting Data Using an API Call
-  - [ ] Installing Requests
-  - [ ] Processing an API Response
-  - [ ] Working with the Response Dictionary
+- [x] <b>Using a Web API</b>
+  - [x] Git and GitHub
+  - [x] Requesting Data Using an API Call
+  - [x] Installing Requests
+  - [x] Processing an API Response
+  - [ ] Working with the Response Dictionary 👈
   - [ ] Summarizing the Top Repositories
   - [ ] Monitoring API Rate Limits
 - [ ] <b>Visualizing Repositories Using Plotly</b>
