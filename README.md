@@ -649,11 +649,11 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Requesting Data Using an API Call
   - [x] Installing Requests
   - [x] Processing an API Response
-  - [ ] Working with the Response Dictionary 👈
-  - [ ] Summarizing the Top Repositories
-  - [ ] Monitoring API Rate Limits
-- [ ] <b>Visualizing Repositories Using Plotly</b>
-  - [ ] Refining Plotly Charts
+  - [x] Working with the Response Dictionary
+  - [x] Summarizing the Top Repositories
+  - [x] Monitoring API Rate Limits
+- [x] <b>Visualizing Repositories Using Plotly</b>
+  - [ ] Refining Plotly Charts 👈
   - [ ] Adding Custom Tooltips
   - [ ] Adding Clickable Links to Our Graph
   - [ ] More About Plotly and the GitHub API
