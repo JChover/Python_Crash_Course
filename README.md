@@ -559,7 +559,7 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Summary</b>
 </details>
 
-#### Project 2: Data Visualization
+#### Project 2: Data Visualization ☑️
 
 <details>
 <summary><b>Chapter 15 - Generating Data</b> ✔️</summary>
@@ -641,8 +641,8 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Summary</b>
 </details>
 
-<details open>
-<summary><b>Chapter 17 - Working with APIs</b></summary>
+<details>
+<summary><b>Chapter 17 - Working with APIs</b> ✔️</summary>
 
 - [x] <b>Using a Web API</b>
   - [x] Git and GitHub
@@ -659,18 +659,18 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] More About Plotly and the GitHub API
 - [x] <b>The Hacker News API</b>
   - [x] Exercise 17-1: Other Languages
-  - [x] Exercise 17-2: Active Discussions 👈
-  - [ ] Exercise 17-3: Testing python_repos.py
-  - [ ] Exercise 17-4: Further Exploration
-- [ ] <b>Summary</b>
+  - [x] Exercise 17-2: Active Discussions
+  - [x] Exercise 17-3: Testing python_repos.py
+  - [x] Exercise 17-4: Further Exploration
+- [x] <b>Summary</b>
 </details>
 
 #### Project 3: Web Applications
 
-<details>
+<details open>
 <summary><b>Chapter 18 - Getting Started with DJANGO</b></summary>
 
-- [ ] <b>Setting Up a Project</b>
+- [ ] <b>Setting Up a Project</b> 👈
   - [ ] Writing a Spec
   - [ ] Crating a Virtual Environment
   - [ ] Activating the Virtual Environment
@@ -796,6 +796,7 @@ What I have learned reading this book.
 - __Basic understanding of Python Built-in libraries.__ (All)
 - __Basic understanding of Pygame library.__ (Project 1)
 - __Basic understanding of MatPlotLib and Plotly libraries.__ (Project 2)
+- __Basic understanding of APIs and how to interact with them.__ (Project 2)
 - __Basic understanding of Django.__ (Project 3)
 
 ## Conclusions
