@@ -667,56 +667,56 @@ Here I will keep track of all the exercises and contents learned while reading t
 
 #### Project 3: Web Applications
 
-<details open>
-<summary><b>Chapter 18 - Getting Started with DJANGO</b></summary>
+<details>
+<summary><b>Chapter 18 - Getting Started with DJANGO</b> ✔️</summary>
 
-- [ ] <b>Setting Up a Project</b> 👈
-  - [ ] Writing a Spec
-  - [ ] Crating a Virtual Environment
-  - [ ] Activating the Virtual Environment
-  - [ ] Installing Django
-  - [ ] Creating a Project in Django
-  - [ ] Creating the Database
-  - [ ] Viewing the Project
-  - [ ] Exercise 18-1: New Projects
-- [ ] <b>Starting an App</b>
-  - [ ] Defining Models
-  - [ ] Activating Models
-  - [ ] The Django Admin Site
-  - [ ] Defining the Entry Model
-  - [ ] Migrating the Entry Model
-  - [ ] Registering Entry with the Admin Site
-  - [ ] The Django Shell
-  - [ ] Exercise 18-2: Short Entries
-  - [ ] Exercise 18-3: The Django API
-  - [ ] Exercise 18-4: Pizzeria
-- [ ] <b>Making Pages: The Learning Log Home Page</b>
-  - [ ] Mapping a URL
-  - [ ] Writing a View
-  - [ ] Writing a Template
-  - [ ] Exercise 18-5: Meal Planner
-  - [ ] Exercise 18-6: Pizzeria Home Page
-- [ ] <b>Building Additional Pages</b>
-  - [ ] Template Inheritance
-  - [ ] The Topics Page
-  - [ ] Individual Topics Pages
-  - [ ] Exercise 18-7: Template Documentation
-  - [ ] Exercise 18-8: Pizzeria Pages
-- [ ] <b>Summary</b>
+- [x] <b>Setting Up a Project</b>
+  - [x] Writing a Spec
+  - [x] Crating a Virtual Environment
+  - [x] Activating the Virtual Environment
+  - [x] Installing Django
+  - [x] Creating a Project in Django
+  - [x] Creating the Database
+  - [x] Viewing the Project
+  - [x] Exercise 18-1: New Projects
+- [x] <b>Starting an App</b>
+  - [x] Defining Models
+  - [x] Activating Models
+  - [x] The Django Admin Site
+  - [x] Defining the Entry Model
+  - [x] Migrating the Entry Model
+  - [x] Registering Entry with the Admin Site
+  - [x] The Django Shell
+  - [x] Exercise 18-2: Short Entries
+  - [x] Exercise 18-3: The Django API
+  - [x] Exercise 18-4: Pizzeria
+- [x] <b>Making Pages: The Learning Log Home Page</b>
+  - [x] Mapping a URL
+  - [x] Writing a View
+  - [x] Writing a Template
+  - [x] Exercise 18-5: Meal Planner
+  - [x] Exercise 18-6: Pizzeria Home Page
+- [x] <b>Building Additional Pages</b>
+  - [x] Template Inheritance
+  - [x] The Topics Page
+  - [x] Individual Topics Pages
+  - [x] Exercise 18-7: Template Documentation
+  - [x] Exercise 18-8: Pizzeria Pages
+- [x] <b>Summary</b>
 </details>
 
-<details>
+<details open>
 <summary><b>Chapter 19 - User Accounts</b></summary>
 
-- [ ] <b>Allowing Users to Enter Data</b>
-  - [ ] Adding New Topics
-  - [ ] Adding New Entries
-  - [ ] Editing Entries
-  - [ ] Exercise 19-1: Blog
-- [ ] <b>Setting Up User Accounts</b>
-  - [ ] The user App
-  - [ ] The Login Page
-  - [ ] Logging Out
+- [x] <b>Allowing Users to Enter Data</b>
+  - [x] Adding New Topics
+  - [x] Adding New Entries
+  - [x] Editing Entries
+  - [x] Exercise 19-1: Blog
+- [x] <b>Setting Up User Accounts</b>
+  - [x] The user App
+  - [x] The Login Page
+  - [ ] Logging Out 👈
   - [ ] The Registration Page
   - [ ] Exercise 19-2: Blog Accounts
 - [ ] <b>Allowing Users to Own Their Data</b>
@@ -798,6 +798,8 @@ What I have learned reading this book.
 - __Basic understanding of MatPlotLib and Plotly libraries.__ (Project 2)
 - __Basic understanding of APIs and how to interact with them.__ (Project 2)
 - __Basic understanding of Django.__ (Project 3)
+- __Basic understanding of SQL and how DDBBs work.__ (Project 3)
+- __Basic understanding of HTML.__ (Project 3)
 
 ## Conclusions
 What are my conclusion after reading this book.
