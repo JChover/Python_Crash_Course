@@ -716,10 +716,10 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Setting Up User Accounts</b>
   - [x] The user App
   - [x] The Login Page
-  - [ ] Logging Out 👈
-  - [ ] The Registration Page
-  - [ ] Exercise 19-2: Blog Accounts
-- [ ] <b>Allowing Users to Own Their Data</b>
+  - [x] Logging Out
+  - [x] The Registration Page
+  - [x] Exercise 19-2: Blog Accounts
+- [ ] <b>Allowing Users to Own Their Data</b> 👈
   - [ ] Restricting Access with @login_required
   - [ ] Connecting Data to Certain Users
   - [ ] Restricting Topics Access to Appropriate Users
