@@ -1,19 +1,23 @@
 # Python Crash Course 
+> [!NOTE]
+> Book Finished: 12/06/2024 - 10/04/2025.
+
 <p>
 <img src="https://ehmatthes.github.io/pcc_3e/images/pcc_snake_logo.png" height="400rm" align="right">
 
 ## Table of Contents
 
-- Description
-- Progress
-  - Part I: Basics
-  - Part II: Projects
-    - Project 1: Alien Invasion
-    - Project 2: Data Visualization
-    - Project 3: Web Applications
-- Resources
-- Learned
-- Conclusions 
+- [Description](#description)
+- [Progress](#progress)
+  - [Part I: Basics](#part-i-basics)
+  - [Part II: Projects](#part-ii-projects)
+    - [Project 1: Alien Invasion](#project-1-alien-invasion-)
+    - [Project 2: Data Visualization](#project-2-data-visualization-)
+    - [Project 3: Web Applications](#project-3-web-applications-)
+- [Screenshots](#screenshots)
+- [Resources](#resources)
+- [Learned](#learned)
+- [Conclusions](#conclusions) 
 </p>
 
 ## Description
@@ -665,7 +669,8 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Summary</b>
 </details>
 
-#### Project 3: Web Applications
+
+#### Project 3: Web Applications ☑️
 
 <details>
 <summary><b>Chapter 18 - Getting Started with DJANGO</b> ✔️</summary>
@@ -733,7 +738,7 @@ Here I will keep track of all the exercises and contents learned while reading t
 </details>
 
 <details open>
-<summary><b>Chapter 20 - Styling and Deploying an APP</b></summary>
+<summary><b>Chapter 20 - Styling and Deploying an APP</b> ✔️</summary>
 
 - [x] <b>Styling Learning Log</b>
   - [x] The django-bootstrap4 App
@@ -745,33 +750,75 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Styling the Entries on the Topic Page
   - [x] Exercise 20-1: Other Forms
   - [x] Exercise 20-2: Stylish Blog
-- [ ] <b>Deploying Learning Log</b> 👈
-  - [ ] Making a Heroku Account
-  - [ ] Installing the Heroku CLI
-  - [ ] Installing Required Packages
-  - [ ] Creating a requirements.txt File
-  - [ ] Specifying the Python Runtime
-  - [ ] Modifying settings.py for Heroku
-  - [ ] Making a Procfile to Start Processes
-  - [ ] Using Git to Track the Project’s Files
-  - [ ] Pushing to Heroku
-  - [ ] Setting Up the Database on Heroku
-  - [ ] Refining the Heroku Deployment
-  - [ ] Securing the Live Project
-  - [ ] Committing and Pushing Changes
-  - [ ] Setting Environment Variables on Heroku
-  - [ ] Creating Custom Error Pages
-  - [ ] Ongoing Development
-  - [ ] The SECRET_KEY Setting
-  - [ ] Deleting a Project on Heroku
-  - [ ] Exercise 20-3: Live Blog
-  - [ ] Exercise 20-4: More 404s
-  - [ ] Exercise 20-5: Extended Learning Log
-- [ ] <b>Summary</b>
+- [x] <b>Deploying Learning Log</b>
+  - [x] Making a Heroku Account
+  - [x] Installing the Heroku CLI
+  - [x] Installing Required Packages
+  - [x] Creating a requirements.txt File
+  - [x] Specifying the Python Runtime
+  - [x] Modifying settings.py for Heroku
+  - [x] Making a Procfile to Start Processes
+  - [x] Using Git to Track the Project’s Files
+  - [x] Pushing to Heroku
+  - [x] Setting Up the Database on Heroku
+  - [x] Refining the Heroku Deployment
+  - [x] Securing the Live Project
+  - [x] Committing and Pushing Changes
+  - [x] Setting Environment Variables on Heroku
+  - [x] Creating Custom Error Pages
+  - [x] Ongoing Development
+  - [x] The SECRET_KEY Setting
+  - [x] Deleting a Project on Heroku
+  - [x] Exercise 20-3: Live Blog
+  - [x] Exercise 20-4: More 404s
+  - [x] Exercise 20-5: Extended Learning Log
+- [x] <b>Summary</b> 👈
+</details>
+
+## Screenshots
+<details >
+<summary><b>Project 1: Alien Invasion</b></summary>
+
+> [!TIP]
+> All images for these game have been generated using AI local model FLUX.1-dev.
+
+![aim.png](PART%20II%20-%20PROJECTS/Project%201%20-%20Alien%20Invasion/Alien%20Invasion/images/aim.png)
+*Fig 1 - Alien Invasion Menu.*
+
+![ai.png](PART%20II%20-%20PROJECTS/Project%201%20-%20Alien%20Invasion/Alien%20Invasion/images/ai.png)
+*Fig 2 - Alien Invasion completed game.*
+
+![ais.png](PART%20II%20-%20PROJECTS/Project%201%20-%20Alien%20Invasion/Alien%20Invasion%20Sideways/images/ais.png)
+*Fig 3 - Alien Invasion Sideways completed game.*
+</details>
+
+<details >
+<summary><b>Project 2: Data Visualization</b></summary>
+
+![output.png](PART%20II%20-%20PROJECTS/Project%202%20-%20Data%20Visualization/Chapter%2015%20-%20Generating%20Data/Files/imgs/output.png)
+*Fig 4 - Random Walk with 50.000 points.*
+
+![wm4.png](PART%20II%20-%20PROJECTS/Project%202%20-%20Data%20Visualization/Chapter%2016%20-%20Downloading%20Data/Files/imgs/wm4.png)
+*Fig 5 - Wildfires Worldwide.*
+
+![pr2.png](PART%20II%20-%20PROJECTS/Project%202%20-%20Data%20Visualization/Chapter%2017%20-%20Working%20with%20APIs/Files/imgs/pr2.png)
+*Fig 6 - Most-Starred Python Projects on GitHub.*
+</details>
+
+<details >
+<summary><b>Project 3: Web Applications</b></summary>
+
+![login.png](PART%20II%20-%20PROJECTS/Project%203%20-%20Web%20Applications/imgs/login.png)
+*Fig 7 - Learning Log web welcome screen.*
+
+![login1.png](PART%20II%20-%20PROJECTS/Project%203%20-%20Web%20Applications/imgs/login1.png)
+*Fig 8 - Learning Log web login screen.*
+
+![c20.png](PART%20II%20-%20PROJECTS/Project%203%20-%20Web%20Applications/imgs/c20.png)
+*Fig 9 - Learning Log web Entries in Chess Topic.*
 </details>
 
 ## Resources
-Here I will leave all the resources I use during this project.
 - [Eric Matthes PCC Repository](https://ehmatthes.github.io/pcc_2e/regular_index/)
 - [The Zen of Python](https://peps.python.org/pep-0020/)
 - [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
@@ -784,13 +831,12 @@ Here I will leave all the resources I use during this project.
 - [Python Module of the Week](https://pymotw.com/3/)
 
 ## Learned
-What I have learned reading this book.
 - __The syntax and basics of Python.__ (Chapters 1:9)
 - __Better understanding of Git and GitHub.__ (All)
 - __How to set up and use PyCharm.__ (All)
 - __How to set up and use Jupyter Notebooks.__ (All)
 - __All the syntax and modifiers of the Markdown (.md) files.__ (All)
-- __How to manage Files: .txt and .json.__ (Chapter 10)
+- __How to manage Files: .txt, .csv and .json.__ (Chapter 10)
 - __How to manage Exceptions.__ (Chapter 10)
 - __How to manage and create Test cases.__ (Chapter 11)
 - __Basic understanding of Python Built-in libraries.__ (All)
@@ -803,4 +849,13 @@ What I have learned reading this book.
 - __Basic understanding of Web Deploying with Heroku.__ (Project 3)
 
 ## Conclusions
-What are my conclusion after reading this book.
+Python Crash Course by Eric Matthes is an excellent book for those willing to start learning Python, and even better for 
+someone who wants to start learning to code from scratch. On the other hand, this same thing is the only
+negative point I found about the book, for those who already know how to code in other languages and know the basics, the 
+first chapters and the way the book is structured can be a little slow and tedious.
+
+It's a great way to get started with Python syntax and understand how the language works. As the chapters progress, the 
+content becomes more interesting. I highly recommend completing the three projects in Part 2, as it's a great way to see 
+the scope and flexibility of the language in a very fun and interactive way.
+
+**Ultimately, I enjoyed the book and would recommend it to anyone who wants to learn Python.**
