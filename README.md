@@ -735,17 +735,17 @@ Here I will keep track of all the exercises and contents learned while reading t
 <details open>
 <summary><b>Chapter 20 - Styling and Deploying an APP</b></summary>
 
-- [ ] <b>Styling Learning Log</b> 👈
-  - [ ] The django-bootstrap4 App
-  - [ ] Using Bootstrap to Style Learning Log
-  - [ ] Modifying base.html
-  - [ ] Styling the Home Page Using a Jumbotron
-  - [ ] Styling the Login Page
-  - [ ] Styling the Topics Page
-  - [ ] Styling the Entries on the Topic Page
-  - [ ] Exercise 20-1: Other Forms
-  - [ ] Exercise 20-2: Stylish Blog
-- [ ] <b>Deploying Learning Log</b>
+- [x] <b>Styling Learning Log</b>
+  - [x] The django-bootstrap4 App
+  - [x] Using Bootstrap to Style Learning Log
+  - [x] Modifying base.html
+  - [x] Styling the Home Page Using a Jumbotron
+  - [x] Styling the Login Page
+  - [x] Styling the Topics Page
+  - [x] Styling the Entries on the Topic Page
+  - [x] Exercise 20-1: Other Forms
+  - [x] Exercise 20-2: Stylish Blog
+- [ ] <b>Deploying Learning Log</b> 👈
   - [ ] Making a Heroku Account
   - [ ] Installing the Heroku CLI
   - [ ] Installing Required Packages
@@ -799,7 +799,8 @@ What I have learned reading this book.
 - __Basic understanding of APIs and how to interact with them.__ (Project 2)
 - __Basic understanding of Django.__ (Project 3)
 - __Basic understanding of SQL and how DDBBs work.__ (Project 3)
-- __Basic understanding of HTML.__ (Project 3)
+- __Basic understanding of HTML and Bootstrap.__ (Project 3)
+- __Basic understanding of Web Deploying with Heroku.__ (Project 3)
 
 ## Conclusions
 What are my conclusion after reading this book.
