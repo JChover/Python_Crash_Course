@@ -705,8 +705,8 @@ Here I will keep track of all the exercises and contents learned while reading t
 - [x] <b>Summary</b>
 </details>
 
-<details open>
-<summary><b>Chapter 19 - User Accounts</b></summary>
+<details>
+<summary><b>Chapter 19 - User Accounts</b> ✔️</summary>
 
 - [x] <b>Allowing Users to Enter Data</b>
   - [x] Adding New Topics
@@ -719,23 +719,23 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] Logging Out
   - [x] The Registration Page
   - [x] Exercise 19-2: Blog Accounts
-- [ ] <b>Allowing Users to Own Their Data</b> 👈
-  - [ ] Restricting Access with @login_required
-  - [ ] Connecting Data to Certain Users
-  - [ ] Restricting Topics Access to Appropriate Users
-  - [ ] Protecting a User’s Topics
-  - [ ] Protecting the edit_entry Page
-  - [ ] Associating New Topics with the Current User
-  - [ ] Exercise 19-3: Refactoring
-  - [ ] Exercise 19-4: Protecting new_entry
-  - [ ] Exercise 19-5: Protected Blog
-- [ ] <b>Summary</b>
+- [x] <b>Allowing Users to Own Their Data</b>
+  - [x] Restricting Access with @login_required
+  - [x] Connecting Data to Certain Users
+  - [x] Restricting Topics Access to Appropriate Users
+  - [x] Protecting a User’s Topics
+  - [x] Protecting the edit_entry Page
+  - [x] Associating New Topics with the Current User
+  - [x] Exercise 19-3: Refactoring
+  - [x] Exercise 19-4: Protecting new_entry
+  - [x] Exercise 19-5: Protected Blog
+- [x] <b>Summary</b>
 </details>
 
-<details>
+<details open>
 <summary><b>Chapter 20 - Styling and Deploying an APP</b></summary>
 
-- [ ] <b>Styling Learning Log</b>
+- [ ] <b>Styling Learning Log</b> 👈
   - [ ] The django-bootstrap4 App
   - [ ] Using Bootstrap to Style Learning Log
   - [ ] Modifying base.html
